@@ -3,7 +3,7 @@
     {
         "empresa": "AVORIS RETAIL DIVISION SL",
         "total": "13922919,81",
-        "detalle": "CE - IMMIGRACIÓ - H&P: 263059,86" | CE - REFUGI - H&P: 237866,99" | Contractació emergència allotjaments a persones: 335618,00" | EMERGENCIA allotjament temporal i manutenció: 5252570,04" | EMERGENCIA allotjament temporal i manutenció març: 1010097,20" | EMERGENCIA allotjaments temporals i manutenció: 6823707,72"
+        "detalle": "CE - IMMIGRACIÓ - H&P: 263059,86 | CE - REFUGI - H&P: 237866,99 | Contractació emergència allotjaments a persones: 335618,00 | EMERGENCIA allotjament temporal i manutenció: 5252570,04 | EMERGENCIA allotjament temporal i manutenció març: 1010097,20 | EMERGENCIA allotjaments temporals i manutenció: 6823707,72"
     },
     {
         "empresa": "CRC OBRAS Y SERVICIOS, S.L.",
@@ -13,77 +13,77 @@
     {
         "empresa": "SERHS FOOD AREA SL",
         "total": "1963897,89",
-        "detalle": "EMERGÈNCIA distribució domiciària d'àpats: 83028,00" | EMERGENCIA distribució domiciliàri d'àpats_desembr: 21780,00" | EMERGENCIA distribució domiciliàri d'àpats_novembr: 23595,00" | EMERGENCIA distribució domiciliària d’àpats: 374616,00" | EMERGENCIA materia primera catering FIRA A: 134097,06" | EMERGENCIA servei de càtering Fira B_sense llar: 144945,68" | EMERGENCIA serveis càtering dispositiu FIRA B: 241955,12" | EMERGÈNCIA subministrament de matèries primeres: 181057,03" | EMERGENCIA subministraments pel dispositiu Fira A: 250800,00" | EMERGENCIA subministraments pel dispositiu Fira B: 508024,00"
+        "detalle": "EMERGÈNCIA distribució domiciària d'àpats: 83028,00 | EMERGENCIA distribució domiciliàri d'àpats_desembr: 21780,00 | EMERGENCIA distribució domiciliàri d'àpats_novembr: 23595,00 | EMERGENCIA distribució domiciliària d’àpats: 374616,00 | EMERGENCIA materia primera catering FIRA A: 134097,06 | EMERGENCIA servei de càtering Fira B_sense llar: 144945,68 | EMERGENCIA serveis càtering dispositiu FIRA B: 241955,12 | EMERGÈNCIA subministrament de matèries primeres: 181057,03 | EMERGENCIA subministraments pel dispositiu Fira A: 250800,00 | EMERGENCIA subministraments pel dispositiu Fira B: 508024,00"
     },
     {
         "empresa": "BARNA PORTERS SEGURETAT SL",
         "total": "1519964,49",
-        "detalle": "EMERGENCIA control accessos equipament FIRA: 171277,92" | EMERGENCIA servei vigilància equipament Claretians: 33657,36" | EMERGÈNCIA servei vigilància Hotel Salut: 7481,43" | EMERGENCIA vigilància dispositiu emergència Montga: 17104,56" | EMERGÈNCIA vigilància equipam. temporal acolliment: 1016559,72" | EMERGÈNCIA vigilància equipam. temporal Montgat: 135732,96" | EMERGENCIA vigilància equipaments acolliment FIRA: 53469,90" | EMERGENCIA Vigilància Hotel Salut Sagrada Família: 84680,64"
+        "detalle": "EMERGENCIA control accessos equipament FIRA: 171277,92 | EMERGENCIA servei vigilància equipament Claretians: 33657,36 | EMERGÈNCIA servei vigilància Hotel Salut: 7481,43 | EMERGENCIA vigilància dispositiu emergència Montga: 17104,56 | EMERGÈNCIA vigilància equipam. temporal acolliment: 1016559,72 | EMERGÈNCIA vigilància equipam. temporal Montgat: 135732,96 | EMERGENCIA vigilància equipaments acolliment FIRA: 53469,90 | EMERGENCIA Vigilància Hotel Salut Sagrada Família: 84680,64"
     },
     {
         "empresa": "ABD ASOCIACION BIENESTAR Y DES",
         "total": "1497804,18",
-        "detalle": "Contracte Emergència - SPA: 109493,28" | EMERGENCIA atenció persones addiccions i sensellar: 348652,38" | EMERGENCIA servei atenció 24h Alberg Pere Tarrés: 339198,54" | EMERGÈNCIA servei atenció a l'Alberg Pere Tarrés: 678397,08" | EMERGENCIA Subministrament materials desinfecció: 22062,90"
+        "detalle": "Contracte Emergència - SPA: 109493,28 | EMERGENCIA atenció persones addiccions i sensellar: 348652,38 | EMERGENCIA servei atenció 24h Alberg Pere Tarrés: 339198,54 | EMERGÈNCIA servei atenció a l'Alberg Pere Tarrés: 678397,08 | EMERGENCIA Subministrament materials desinfecció: 22062,90"
     },
     {
         "empresa": "PROGESS PROJEC.GESTIO SERVEIS SOCIA",
         "total": "1441018,06",
-        "detalle": "DISPOSITIU REFORÇ CONFINAMENT COVID-19: 16445,35" | EMERGENCIA allotjaments APROP-Ciutat Vella: 31673,39" | EMERGENCIA atenció 24h dones sense llar: 494735,64" | EMERGENCIA atenció dones sense llar: 471836,16" | EMERGENCIA serveis allotjaments APROP_Ciutat Vella: 20812,68" | EMERGENCIA serveis atenció al centre APROP: 20812,68" | Intervenció persones vulnerables risc COVID-19: 117849,96" | Intervenció suport persones vulnerables risc COVID: 224723,41" | Seguiment servei telef.orientació jurídica a dones: 9341,11" | Servei telefònic orientació jurídica: 32787,68"
+        "detalle": "DISPOSITIU REFORÇ CONFINAMENT COVID-19: 16445,35 | EMERGENCIA allotjaments APROP-Ciutat Vella: 31673,39 | EMERGENCIA atenció 24h dones sense llar: 494735,64 | EMERGENCIA atenció dones sense llar: 471836,16 | EMERGENCIA serveis allotjaments APROP_Ciutat Vella: 20812,68 | EMERGENCIA serveis atenció al centre APROP: 20812,68 | Intervenció persones vulnerables risc COVID-19: 117849,96 | Intervenció suport persones vulnerables risc COVID: 224723,41 | Seguiment servei telef.orientació jurídica a dones: 9341,11 | Servei telefònic orientació jurídica: 32787,68"
     },
     {
         "empresa": "SANT JOAN DE DEU, SERVEIS SOCIALS",
         "total": "1418397,61",
-        "detalle": "EMERGENCIA servei atenció places per confinament: 376858,15" | EMERGENCIA treballs ampliació 30 places Hort Vila: 360238,21" | EMERGENCIA treballs atenció social i allotjament: 681301,25"
+        "detalle": "EMERGENCIA servei atenció places per confinament: 376858,15 | EMERGENCIA treballs ampliació 30 places Hort Vila: 360238,21 | EMERGENCIA treballs atenció social i allotjament: 681301,25"
     },
     {
         "empresa": "EVERIS BPO SLU",
         "total": "1367905,00",
-        "detalle": "Atenció telefònica i suport administratiu gestió telemàtica de les noves línies d’ajuts: 523930,00" | Programa de col·laboració amb els tenidors d’Habitatges d’Ús Turístic per a la cessió temporal allotjaments a famílies vulnerables: 42350,00" | Servei de reforç per a l'atenció ciutadana en relació als serveis d'habitatge prestats pel Consorci d'Habitatge de Barcelona: 716320,00" | Suport extern per agendar cites prèvies per als usuaris de serveis del Parc públic d'habitatge: 85305,00"
+        "detalle": "Atenció telefònica i suport administratiu gestió telemàtica de les noves línies d’ajuts: 523930,00 | Programa de col·laboració amb els tenidors d’Habitatges d’Ús Turístic per a la cessió temporal allotjaments a famílies vulnerables: 42350,00 | Servei de reforç per a l'atenció ciutadana en relació als serveis d'habitatge prestats pel Consorci d'Habitatge de Barcelona: 716320,00 | Suport extern per agendar cites prèvies per als usuaris de serveis del Parc públic d'habitatge: 85305,00"
     },
     {
         "empresa": "HAVAS MEDIA GROUP SPAIN SA",
         "total": "1307818,27",
-        "detalle": "Publicitat modificiació calendari fiscal 2020: 18339,35" | Campanya comunicació BCNacasa: 203321,14" | Planificació i compra de seveis publicitaris: 909000,00" | Serveis publicitaris ràdio COVID: 177157,78"
+        "detalle": "Publicitat modificiació calendari fiscal 2020: 18339,35 | Campanya comunicació BCNacasa: 203321,14 | Planificació i compra de seveis publicitaris: 909000,00 | Serveis publicitaris ràdio COVID: 177157,78"
     },
     {
         "empresa": "CRUZ ROJA ESPAÑOLA",
         "total": "1239506,05",
-        "detalle": "EMERGENCIA atenció persones sense llar FIRA A: 292269,58" | EMERGENCIA atenció sense llar Alberg Pere Calafell: 211785,58" | EMERGENCIA gestió allotjament i atenció H. Ali Bei: 18378,48" | EMERGENCIA lliurament 2.300 àpats: 5178,04" | EMERGENCIA organit. allotjament i atenció: 16776,18" | EMERGENCIA realització de proves PCR (Nou Barris): 2750,00" | EMERGENCIA servei d’acolliment nocturn FIRA A: 352686,08" | EMERGENCIA serveis acollida dispositiu FIRA A: 288098,81" | Servei lliurament domiciliari medicació, alimentac: 51583,30"
+        "detalle": "EMERGENCIA atenció persones sense llar FIRA A: 292269,58 | EMERGENCIA atenció sense llar Alberg Pere Calafell: 211785,58 | EMERGENCIA gestió allotjament i atenció H. Ali Bei: 18378,48 | EMERGENCIA lliurament 2.300 àpats: 5178,04 | EMERGENCIA organit. allotjament i atenció: 16776,18 | EMERGENCIA realització de proves PCR (Nou Barris): 2750,00 | EMERGENCIA servei d’acolliment nocturn FIRA A: 352686,08 | EMERGENCIA serveis acollida dispositiu FIRA A: 288098,81 | Servei lliurament domiciliari medicació, alimentac: 51583,30"
     },
     {
         "empresa": "SERVICIOS MICROINFORMATICA SA",
         "total": "1208810,09",
-        "detalle": "100 portàtils toshiba Z30: 109384,00" | 81 portàtils toshiba (diversos models): 104023,20" | Adquisició 162 portatils: 166420,98" | Adquisició 177 portatils Toshiba: 199762,53" | ADQUISICIÓ DE 7 PORTÀTILS  I 3 ORDINADORS: 11805,35" | Adquisició equips informàtics: 29699,14" | Adquisició ordinadors portàtils Dte Ciutat Vella: 9701,05" | Ordre emergència Adsquisició equips informàtics: 37533,23" | Ordre emergència Material informàtic: 13069,82" | Subministrament de 512 portàtils Toshiba A40 G-123 amb equipament complert: 499698,64" | Subministrament ordinadors portàtils - Treball a distància: 17463,93" | Subministrament urgent de 10 portàtils: 10248,22"
+        "detalle": "100 portàtils toshiba Z30: 109384,00 | 81 portàtils toshiba (diversos models): 104023,20 | Adquisició 162 portatils: 166420,98 | Adquisició 177 portatils Toshiba: 199762,53 | ADQUISICIÓ DE 7 PORTÀTILS  I 3 ORDINADORS: 11805,35 | Adquisició equips informàtics: 29699,14 | Adquisició ordinadors portàtils Dte Ciutat Vella: 9701,05 | Ordre emergència Adsquisició equips informàtics: 37533,23 | Ordre emergència Material informàtic: 13069,82 | Subministrament de 512 portàtils Toshiba A40 G-123 amb equipament complert: 499698,64 | Subministrament ordinadors portàtils - Treball a distància: 17463,93 | Subministrament urgent de 10 portàtils: 10248,22"
     },
     {
         "empresa": "FUNDACION SALUD Y COMUNIDAD",
         "total": "1172771,24",
-        "detalle": "SERVEI D'ATENCIÓ SOCIAL A DONES: 56698,14" | EMERGENCIA allotjament dispositiu Fira B: 567752,54" | EMERGENCIA gestió equipament Erasmus Gràcia: 51756,17" | EMERGENCIA serveis acollida Fira homes sense llar: 490261,44" | EMERGENCIA Subministrament materials desinfecció: 6302,95"
+        "detalle": "SERVEI D'ATENCIÓ SOCIAL A DONES: 56698,14 | EMERGENCIA allotjament dispositiu Fira B: 567752,54 | EMERGENCIA gestió equipament Erasmus Gràcia: 51756,17 | EMERGENCIA serveis acollida Fira homes sense llar: 490261,44 | EMERGENCIA Subministrament materials desinfecció: 6302,95"
     },
     {
         "empresa": "FUNDACIO PERE TARRES",
         "total": "1108068,04",
-        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 32135,72" | EMERGENCIA allotjament_alimentacio Alb PereTarrés: 604395,00" | EMERGÈNCIA allotjament_alimentacio Alb PereTarrés: 442860,00" | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (LOT 1): 28677,32"
+        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 32135,72 | EMERGENCIA allotjament_alimentacio Alb PereTarrés: 604395,00 | EMERGÈNCIA allotjament_alimentacio Alb PereTarrés: 442860,00 | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (LOT 1): 28677,32"
     },
     {
         "empresa": "SUARA SERVEIS SCCL",
         "total": "1076890,34",
-        "detalle": "EMERGÈNCIA atenció diürna C. d'Acolliment Sarrià: 301042,84" | EMERGENCIA atenció diürna Sarrià 17 - 31/03: 21503,06" | EMERGENCIA Centre d’Acollida ASSIS 21/03 - 04/04: 16314,79" | EMERGENCIA Centre d’Acollida ASSIS fins 5 juny: 26079,98" | EMERGÈNCIA serveis higiene i menjador C.Assís: 12597,95" | EMERGENCIA subministrament EPIs SAD zones 1 i 3: 323475,24" | EMERGENCIA treballs ampliació 1a Acollida Sarrià: 320822,07" | Informadors via pública prevenció Covid-19: 55054,41"
+        "detalle": "EMERGÈNCIA atenció diürna C. d'Acolliment Sarrià: 301042,84 | EMERGENCIA atenció diürna Sarrià 17 - 31/03: 21503,06 | EMERGENCIA Centre d’Acollida ASSIS 21/03 - 04/04: 16314,79 | EMERGENCIA Centre d’Acollida ASSIS fins 5 juny: 26079,98 | EMERGÈNCIA serveis higiene i menjador C.Assís: 12597,95 | EMERGENCIA subministrament EPIs SAD zones 1 i 3: 323475,24 | EMERGENCIA treballs ampliació 1a Acollida Sarrià: 320822,07 | Informadors via pública prevenció Covid-19: 55054,41"
     },
     {
         "empresa": "EUREST CATALUNYA, S.L.",
         "total": "1074156,60",
-        "detalle": "EMERGENCIA distribució domiciliària d’àpats: 407748,00" | EMERGENCIA servei distribució domiciliària d'àpats: 666408,60"
+        "detalle": "EMERGENCIA distribució domiciliària d’àpats: 407748,00 | EMERGENCIA servei distribució domiciliària d'àpats: 666408,60"
     },
     {
         "empresa": "CARAT ESPAñA,S.A.",
         "total": "1049543,72",
-        "detalle": "Compra mitjans premsa escrita: 444543,72" | Planificació i compra de seveis publicitaris: 605000,00"
+        "detalle": "Compra mitjans premsa escrita: 444543,72 | Planificació i compra de seveis publicitaris: 605000,00"
     },
     {
         "empresa": "FUNDACIO CATALANA DE L'ESPLAI",
         "total": "1011080,46",
-        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 67571,70" | Control mesures estables per contenció COVID-19: 61200,00" | EMERGÈNCIA alimentació Casa Claretians: 73725,96" | EMERGENCIA Àpats Ciutat Vella i Sants-Montjuïc: 419584,00" | EMERGENCIA distribució domiciliària d'àpats: 241952,57" | EMERGENCIA servei alimentació Casa Claretians: 85322,91" | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (L5, 7/18): 57260,00" | Serveis porjecte Totes fem Xarxa: 4463,32"
+        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 67571,70 | Control mesures estables per contenció COVID-19: 61200,00 | EMERGÈNCIA alimentació Casa Claretians: 73725,96 | EMERGENCIA Àpats Ciutat Vella i Sants-Montjuïc: 419584,00 | EMERGENCIA distribució domiciliària d'àpats: 241952,57 | EMERGENCIA servei alimentació Casa Claretians: 85322,91 | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (L5, 7/18): 57260,00 | Serveis porjecte Totes fem Xarxa: 4463,32"
     },
     {
         "empresa": "TEMAVIAL, SL ",
@@ -93,22 +93,22 @@
     {
         "empresa": "ASSOCIACIO SUPERACCIO",
         "total": "955152,92",
-        "detalle": "EMERGÈNCIA allotjament i servei atenció nois: 233333,36" | EMERGÈNCIA serveis equipament persones sense llar: 109394,08" | EMERGENCIA serveis per a joves sense llar: 612425,48"
+        "detalle": "EMERGÈNCIA allotjament i servei atenció nois: 233333,36 | EMERGÈNCIA serveis equipament persones sense llar: 109394,08 | EMERGENCIA serveis per a joves sense llar: 612425,48"
     },
     {
         "empresa": "BECHTLE DIRECT S.L.",
         "total": "950373,80",
-        "detalle": "Compra de portàtils GPiH: 77150,19" | Subministrament de 14 ordinadors portàtils: 11439,24" | Subministrament de 592 portàtils HP + perifèrics: 567460,34" | SUBMINISTRAMENT ESTACIONS TREBALL DISTRICTES: 294324,03"
+        "detalle": "Compra de portàtils GPiH: 77150,19 | Subministrament de 14 ordinadors portàtils: 11439,24 | Subministrament de 592 portàtils HP + perifèrics: 567460,34 | SUBMINISTRAMENT ESTACIONS TREBALL DISTRICTES: 294324,03"
     },
     {
         "empresa": "SERVICIOS OPERATIVOS INTERNOS SA",
         "total": "903409,26",
-        "detalle": "EMERGENCIA neteja 24 hores Pavelló 7B FIRA: 324279,04" | EMERGÈNCIA neteja dispositiu acollida Fira 7B: 239058,36" | EMERGENCIA neteja equipament acollida FIRA 7B: 212768,14" | Neteja del pavelló 7B de la Fira de Barcelona: 127303,72"
+        "detalle": "EMERGENCIA neteja 24 hores Pavelló 7B FIRA: 324279,04 | EMERGÈNCIA neteja dispositiu acollida Fira 7B: 239058,36 | EMERGENCIA neteja equipament acollida FIRA 7B: 212768,14 | Neteja del pavelló 7B de la Fira de Barcelona: 127303,72"
     },
     {
         "empresa": "CONSTRAULA ENGINYERIA I OBRES SAU",
         "total": "898120,25",
-        "detalle": "Compra tanques protectores d´obra (rivises): 18243,71" | EMERGENCIA desinfecció d’EPI’s al Pavelló 4: 3383,95" | Obra enderroc c/Maresme 37: 68148,36" | Obres relatives a l’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la felxibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. Lots 1 al 10.: 457138,65" | Obres relatives a les actuacions complementàries d'obra civil en el marc de les actuacions d'Espai Públic i Mobilitat en el marc del COVID-19. : 351205,57"
+        "detalle": "Compra tanques protectores d´obra (rivises): 18243,71 | EMERGENCIA desinfecció d’EPI’s al Pavelló 4: 3383,95 | Obra enderroc c/Maresme 37: 68148,36 | Obres relatives a l’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la felxibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. Lots 1 al 10.: 457138,65 | Obres relatives a les actuacions complementàries d'obra civil en el marc de les actuacions d'Espai Públic i Mobilitat en el marc del COVID-19. : 351205,57"
     },
     {
         "empresa": "SEÑALIZACIONES JICA, S.A.",
@@ -118,12 +118,12 @@
     {
         "empresa": "Saytel Servicios informáticos SA",
         "total": "863192,44",
-        "detalle": "SUBMINISTRAMENT 10 PORTÀTILS I 6 TAULETES: 20116,25" | Subministrament de 741 portàtils Toshiba A40 G-123 amb equipament complert: 781870,82" | Subministrament ordinadors portàtils i altres eines informàtiques: 50721,69" | Subministrament Periferics: 10483,68"
+        "detalle": "SUBMINISTRAMENT 10 PORTÀTILS I 6 TAULETES: 20116,25 | Subministrament de 741 portàtils Toshiba A40 G-123 amb equipament complert: 781870,82 | Subministrament ordinadors portàtils i altres eines informàtiques: 50721,69 | Subministrament Periferics: 10483,68"
     },
     {
         "empresa": "FIRA INTERNACIONAL DE BARCELONA",
         "total": "815493,09",
-        "detalle": "EMERGENCIA adequació instal∙lacions i vigilància: 118620,17" | EMERGENCIA material fungible per el servei d’àpats: 13167,00" | EMERGENCIA servei vigilància Pavelló 4 FIRA BCN: 115113,20" | EMERGENCIA servei vigilància Pavellons 7A_7B FIRA: 85029,12" | EMERGÈNCIA subministraments dispositiu pavelló 7: 256611,97" | EMERGÈNCIA treballs vigilància Pavelló 4 FIRA: 85934,59" | EMERGÈNCIA vigilància i manteniment Pavelló 7 FIRA: 141017,04"
+        "detalle": "EMERGENCIA adequació instal∙lacions i vigilància: 118620,17 | EMERGENCIA material fungible per el servei d’àpats: 13167,00 | EMERGENCIA servei vigilància Pavelló 4 FIRA BCN: 115113,20 | EMERGENCIA servei vigilància Pavellons 7A_7B FIRA: 85029,12 | EMERGÈNCIA subministraments dispositiu pavelló 7: 256611,97 | EMERGÈNCIA treballs vigilància Pavelló 4 FIRA: 85934,59 | EMERGÈNCIA vigilància i manteniment Pavelló 7 FIRA: 141017,04"
     },
     {
         "empresa": "PROSEÑAL, SLU",
@@ -133,27 +133,27 @@
     {
         "empresa": "BARNA PORTERS SEGURETAT SL",
         "total": "773900,27",
-        "detalle": "EMERGENCIA control accessos dispositius FIRA: 31931,90" | EMERGENCIA control accessos equipament FIRA: 98108,01" | EMERGÈNCIA control accessos equipament temporal: 643860,36"
+        "detalle": "EMERGENCIA control accessos dispositius FIRA: 31931,90 | EMERGENCIA control accessos equipament FIRA: 98108,01 | EMERGÈNCIA control accessos equipament temporal: 643860,36"
     },
     {
         "empresa": "GIMNAS SOCIAL SANT PAU SCCL",
         "total": "713028,56",
-        "detalle": "EMERGENCIA higiene i menjador social: 35962,41" | EMERGENCIA serveis d'higiene al Gimnàs St. Pau: 55713,24" | EMERGÈNCIA serveis higiene Gimnàs social St. Pau: 243281,15" | EMERGENCIA serveis higiene: dutxes i rober: 378071,76"
+        "detalle": "EMERGENCIA higiene i menjador social: 35962,41 | EMERGENCIA serveis d'higiene al Gimnàs St. Pau: 55713,24 | EMERGÈNCIA serveis higiene Gimnàs social St. Pau: 243281,15 | EMERGENCIA serveis higiene: dutxes i rober: 378071,76"
     },
     {
         "empresa": "SANT PERE CLAVER FUNDACIO SERVEIS S",
         "total": "702193,25",
-        "detalle": "EMERGENCIA servei atenció social Hotel Sagrada F.: 657167,50" | EMERGÈNCIA servei atenció social Hotel Salut: 45025,75"
+        "detalle": "EMERGENCIA servei atenció social Hotel Sagrada F.: 657167,50 | EMERGÈNCIA servei atenció social Hotel Salut: 45025,75"
     },
     {
         "empresa": "AINA SERVICIOS GENERALES SL",
         "total": "678639,20",
-        "detalle": "Gestió control aforament mercats: 623712,19" | Instal.lació càmeres compta persones: 54927,01"
+        "detalle": "Gestió control aforament mercats: 623712,19 | Instal.lació càmeres compta persones: 54927,01"
     },
     {
         "empresa": "ORIGINAL STOCK BARCELONA SL",
         "total": "673516,10",
-        "detalle": "Compra 15000 mascaretes: 33750,00" | Compra 17.000 mascaretes: 17950,00" | Compra 17.560 mascaretes: 18950,00" | Compra 200 termòmetres infrarrojos: 8252,20" | Compra 200.000 Guants de nitril: 41770,69" | Compra 40.000 mascaretes: 82000,00" | Compra 45000 mascaretes: 92250,00" | Compra 5000 monos protecció microbiològia integral: 104873,04" | Compra 5450 mascaretes: 10582,50" | Compra 63.000 ud guants nitril: 8190,00" | Compra de termòmetres: 14189,77" | Compra roba interior persones sense llar: 2238,50" | EMERGENCIA roba interior per Gimnàs social St Pau: 4477,00" | Subministrament mascaretes i ulleres per a GUB: 234042,40"
+        "detalle": "Compra 15000 mascaretes: 33750,00 | Compra 17.000 mascaretes: 17950,00 | Compra 17.560 mascaretes: 18950,00 | Compra 200 termòmetres infrarrojos: 8252,20 | Compra 200.000 Guants de nitril: 41770,69 | Compra 40.000 mascaretes: 82000,00 | Compra 45000 mascaretes: 92250,00 | Compra 5000 monos protecció microbiològia integral: 104873,04 | Compra 5450 mascaretes: 10582,50 | Compra 63.000 ud guants nitril: 8190,00 | Compra de termòmetres: 14189,77 | Compra roba interior persones sense llar: 2238,50 | EMERGENCIA roba interior per Gimnàs social St Pau: 4477,00 | Subministrament mascaretes i ulleres per a GUB: 234042,40"
     },
     {
         "empresa": "BROTHERS CONTROL S.L.",
@@ -193,7 +193,7 @@
     {
         "empresa": "ARANDA MANZANO ESTEBAN",
         "total": "32944,05",
-        "detalle": "Compra protectors matalassos: 29910,00" | EMERGENCIA coixins i protectors matalàs Room Mate: 3034,05"
+        "detalle": "Compra protectors matalassos: 29910,00 | EMERGENCIA coixins i protectors matalàs Room Mate: 3034,05"
     },
     {
         "empresa": "ARTIGAL TUBAU ALEIX",
@@ -223,7 +223,7 @@
     {
         "empresa": "BUGADERIA   MIRALLERS (NOEMI BALLINA YUSTE)",
         "total": "3049,20",
-        "detalle": "Servei de bugaderia pel rentat, assecat i manipulació de mascaretes COVID-19: 847,00" | Servei de planxat manual i manipulació de mascaretes COVID-19.: 2202,20"
+        "detalle": "Servei de bugaderia pel rentat, assecat i manipulació de mascaretes COVID-19: 847,00 | Servei de planxat manual i manipulació de mascaretes COVID-19.: 2202,20"
     },
     {
         "empresa": "CABERO JOUNOU MIREIA",
@@ -243,12 +243,12 @@
     {
         "empresa": "DIEZ NEBOT",
         "total": "2949,38",
-        "detalle": "SUBMINITRAMENT DE 1.000 PANTALLES PROTECTORES: 2359,50" | SUBMINITRAMENT DE 250 PANTALLES PROTECTORES: 589,88"
+        "detalle": "SUBMINITRAMENT DE 1.000 PANTALLES PROTECTORES: 2359,50 | SUBMINITRAMENT DE 250 PANTALLES PROTECTORES: 589,88"
     },
     {
         "empresa": "FIGUERAS VALLE JUAN",
         "total": "40100,52",
-        "detalle": "EMERGENCIA neteja equipament temporal allotjament: 33459,02" | EMERGENCIA servei neteja equipament Claretians: 6641,50"
+        "detalle": "EMERGENCIA neteja equipament temporal allotjament: 33459,02 | EMERGENCIA servei neteja equipament Claretians: 6641,50"
     },
     {
         "empresa": "GLADYS CUESTAS",
@@ -263,7 +263,7 @@
     {
         "empresa": "GONZALEZ LLADO ALBERT",
         "total": "1452,00",
-        "detalle": "EMERGENCIA Lloguer de 2 carpes per ramadà: 605,00" | EMERGENCIA Lloguer de 3 carpes pel Banc Aliments: 847,00"
+        "detalle": "EMERGENCIA Lloguer de 2 carpes per ramadà: 605,00 | EMERGENCIA Lloguer de 3 carpes pel Banc Aliments: 847,00"
     },
     {
         "empresa": "GUIJARRO TURÉGANO BEATRIZ",
@@ -293,12 +293,12 @@
     {
         "empresa": "JORDI SALA GONZÁLEZ",
         "total": "31837,37",
-        "detalle": "Coordinació de Seguretat i Salut en fase d'execcució de les obres per a l'execució de les actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: Actuació 2: 8621,25" | Serveis de C. S. S. de les Obres d’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la flexibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. (Lots 1 al 5 identificats en el desglossament adjunt) i retirada de les terrasses, i reestructuració de l’espai públic, d’acord amb les instruccions de l'ajuntament de Barcelona: 23216,12"
+        "detalle": "Coordinació de Seguretat i Salut en fase d'execcució de les obres per a l'execució de les actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: Actuació 2: 8621,25 | Serveis de C. S. S. de les Obres d’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la flexibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. (Lots 1 al 5 identificats en el desglossament adjunt) i retirada de les terrasses, i reestructuració de l’espai públic, d’acord amb les instruccions de l'ajuntament de Barcelona: 23216,12"
     },
     {
         "empresa": "JORGE MERCADER ESTEVE",
         "total": "31806,74",
-        "detalle": "Coordinació de Seguretat i Salut en fase d'execcució de les obres per a l'execució de les actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: Actuació 3: 8621,25" | Serveis de C. S. S. de les Obres d’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la flexibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. (Lots 1 al 5 identificats en el desglossament adjunt) i retirada de les terrasses, i reestructuració de l’espai públic, d’acord amb les instruccions de l'ajuntament de Barcelona: 23185,49"
+        "detalle": "Coordinació de Seguretat i Salut en fase d'execcució de les obres per a l'execució de les actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: Actuació 3: 8621,25 | Serveis de C. S. S. de les Obres d’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la flexibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. (Lots 1 al 5 identificats en el desglossament adjunt) i retirada de les terrasses, i reestructuració de l’espai públic, d’acord amb les instruccions de l'ajuntament de Barcelona: 23185,49"
     },
     {
         "empresa": "JUAN ANTONIO MOLINA MARTIN",
@@ -308,7 +308,7 @@
     {
         "empresa": "JUAN JAVIER MARTÍNEZ ROCA",
         "total": "31868,00",
-        "detalle": "Coordinació de Seguretat i Salut en fase d'execució de les obres per a l'execució de les actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: Actuació 1: 8621,25" | Serveis de C. S. S. de les Obres d’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la flexibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. (Lots 1 al 5 identificats en el desglossament adjunt) i retirada de les terrasses, i reestructuració de l’espai públic, d’acord amb les instruccions de l'ajuntament de Barcelona: 23246,75"
+        "detalle": "Coordinació de Seguretat i Salut en fase d'execució de les obres per a l'execució de les actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: Actuació 1: 8621,25 | Serveis de C. S. S. de les Obres d’ampliació de l’Espai Públic per destinar-ho a la reobertura de les terrasses, amb ocasió de la flexibilització de les restriccions establertes amb la Declaració de l’Estat d’Alarma. (Lots 1 al 5 identificats en el desglossament adjunt) i retirada de les terrasses, i reestructuració de l’espai públic, d’acord amb les instruccions de l'ajuntament de Barcelona: 23246,75"
     },
     {
         "empresa": "LOPEZ NOVELL",
@@ -318,7 +318,7 @@
     {
         "empresa": "MANZANEDA ABARCA ANASTASIO",
         "total": "28251,08",
-        "detalle": "º: 6543,68" | Serveis transport suport logístic emergència COVID: 21707,40"
+        "detalle": "º: 6543,68 | Serveis transport suport logístic emergència COVID: 21707,40"
     },
     {
         "empresa": "MANZANEDA ORTIZ PATRICIA",
@@ -423,7 +423,7 @@
     {
         "empresa": "VILA FERNANDEZ",
         "total": "5820,00",
-        "detalle": "Compre de 400 mascaretes pels mercats: 2320,00" | Compre de 500 mascaretes: 1750,00" | Compre de 500 mascaretes pels mercats: 1750,00"
+        "detalle": "Compre de 400 mascaretes pels mercats: 2320,00 | Compre de 500 mascaretes: 1750,00 | Compre de 500 mascaretes pels mercats: 1750,00"
     },
     {
         "empresa": "VIÑUALES GOMEZ RUBEN",
@@ -433,17 +433,17 @@
     {
         "empresa": "METROPOLIS SEGURIDAD Y PROTECCION",
         "total": "598591,20",
-        "detalle": "EMERGENCIA treballs vigilància i control accessos: 250000,00" | EMERGENCIA vigilància i control accessos: 107972,84" | EMERGENCIA vigilància i control d’accessos: 240618,36"
+        "detalle": "EMERGENCIA treballs vigilància i control accessos: 250000,00 | EMERGENCIA vigilància i control accessos: 107972,84 | EMERGENCIA vigilància i control d’accessos: 240618,36"
     },
     {
         "empresa": "TOI TOI SANITARIOS MOVILES SA",
         "total": "529459,23",
-        "detalle": "EMERGENCIA dutxes Pavellons 7A i 7B FIRA BARCELONA: 149588,26" | EMERGENCIA lloguer de dutxes i cabines sanitàries: 222347,33" | EMERGÈNCIA lloguer dutxes i cabines sanitàries: 157523,64"
+        "detalle": "EMERGENCIA dutxes Pavellons 7A i 7B FIRA BARCELONA: 149588,26 | EMERGENCIA lloguer de dutxes i cabines sanitàries: 222347,33 | EMERGÈNCIA lloguer dutxes i cabines sanitàries: 157523,64"
     },
     {
         "empresa": "ACCENT SOCIAL, S.L.",
         "total": "520460,29",
-        "detalle": "EMERGENCIA atenció persones sense llar Meridiana: 13467,64" | EMERGENCIA gestió dispositiu d’urgència  Ronda D.: 92991,08" | EMERGENCIA Gestió dispositiu d'urgència R.de Dalt: 172697,72" | EMERGENCIA serveis Residència JOSEP MIRACLE: 90365,72" | EMERGENCIA subministrament EPIs SAD zona 4: 134370,60" | EMERGENCIA Subministrament materials desinfecció: 16567,53"
+        "detalle": "EMERGENCIA atenció persones sense llar Meridiana: 13467,64 | EMERGENCIA gestió dispositiu d’urgència  Ronda D.: 92991,08 | EMERGENCIA Gestió dispositiu d'urgència R.de Dalt: 172697,72 | EMERGENCIA serveis Residència JOSEP MIRACLE: 90365,72 | EMERGENCIA subministrament EPIs SAD zona 4: 134370,60 | EMERGENCIA Subministrament materials desinfecció: 16567,53"
     },
     {
         "empresa": "SERVEIS INT.FINQUES URBANES SL",
@@ -453,7 +453,7 @@
     {
         "empresa": "MULTISERVEIS NDAVANT, SL",
         "total": "486091,90",
-        "detalle": "EMERGENCIA neteja 24 hores Pavelló 7A FIRA: 344678,32" | EMERGÈNCIA netja dipositiu acollida FIRA 7A: 141413,58"
+        "detalle": "EMERGENCIA neteja 24 hores Pavelló 7A FIRA: 344678,32 | EMERGÈNCIA netja dipositiu acollida FIRA 7A: 141413,58"
     },
     {
         "empresa": "AUXILIAR DE FIRMES Y CARRETERAS, S.A.U.",
@@ -508,17 +508,17 @@
     {
         "empresa": "UNITRONICS COMUNICACIONES, S.A.",
         "total": "408226,56",
-        "detalle": "500 llicències Pulse: 85050,90" | Adquisició de plataforma VPN: 299974,85" | Ampliació hasta 2.500 llicències servei Pulse per 8 setmanes: 23200,81"
+        "detalle": "500 llicències Pulse: 85050,90 | Adquisició de plataforma VPN: 299974,85 | Ampliació hasta 2.500 llicències servei Pulse per 8 setmanes: 23200,81"
     },
     {
         "empresa": "NB OBRES I SERVEIS 1983 SLU",
         "total": "359348,00",
-        "detalle": "EMERGENCIA mampares i contenidors ECO: 99414,08" | EMERGÈNCIA pantalles protectores metacrilat: 29480,44" | EMERGENCIA treballs adequació espai Pere Calafell: 230453,48"
+        "detalle": "EMERGENCIA mampares i contenidors ECO: 99414,08 | EMERGÈNCIA pantalles protectores metacrilat: 29480,44 | EMERGENCIA treballs adequació espai Pere Calafell: 230453,48"
     },
     {
         "empresa": "SERVIS COMPLET SL",
         "total": "351088,29",
-        "detalle": "EMERGENCIA lloguer de divisòries lleugeres: 251796,97" | EMERGÈNCIA lloguer divisòries pavellons acollida: 99291,32"
+        "detalle": "EMERGENCIA lloguer de divisòries lleugeres: 251796,97 | EMERGÈNCIA lloguer divisòries pavellons acollida: 99291,32"
     },
     {
         "empresa": "Wheelzzz Europa, S.L. (VERTICALLY)",
@@ -543,42 +543,42 @@
     {
         "empresa": "ID GRUP, SA",
         "total": "299177,24",
-        "detalle": "12 PC, 35 Pantalles: 24310,57" | 20  ordinadors portàtils : 16794,80" | 3 PC, 6 impressores i 3 connectors: 6386,95" | ADQUISICIÓ DE 83 ORDINADORS PORTÀTILS PER LES EB: 55653,28" | Subministrament de mitjans i elements necessaris per poder emmagatzemar les dades produïdes per tasques de teletreball dels treballadors IMHAB.: 106796,61" | Suministrament d'ordinadors portàtils (40) LOT 1 : 45761,56" | Suministrament d'ordinadors portàtils Lenovo  (38) LOT 1: 43473,47"
+        "detalle": "12 PC, 35 Pantalles: 24310,57 | 20  ordinadors portàtils : 16794,80 | 3 PC, 6 impressores i 3 connectors: 6386,95 | ADQUISICIÓ DE 83 ORDINADORS PORTÀTILS PER LES EB: 55653,28 | Subministrament de mitjans i elements necessaris per poder emmagatzemar les dades produïdes per tasques de teletreball dels treballadors IMHAB.: 106796,61 | Suministrament d'ordinadors portàtils (40) LOT 1 : 45761,56 | Suministrament d'ordinadors portàtils Lenovo  (38) LOT 1: 43473,47"
     },
     {
         "empresa": "ENERPRO, SL",
         "total": "279114,36",
-        "detalle": "Servei de vigilància de 3 Oficines d'Habitatge (Ciutat Vella, Les Corts i Sant Marti): 50832,62" | Servei de vigilància de 6 Oficines d'Habitatge a l’Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó, Nou Barris i Sant Andreu: 169014,44" | Vigilància 3 Oficines d'habitatge (ciutat vella, les corts i sant marti): 59267,30"
+        "detalle": "Servei de vigilància de 3 Oficines d'Habitatge (Ciutat Vella, Les Corts i Sant Marti): 50832,62 | Servei de vigilància de 6 Oficines d'Habitatge a l’Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó, Nou Barris i Sant Andreu: 169014,44 | Vigilància 3 Oficines d'habitatge (ciutat vella, les corts i sant marti): 59267,30"
     },
     {
         "empresa": "PUNT INFORMATIC I CREATIU SL",
         "total": "267380,98",
-        "detalle": "Adquisició portàtils per a teletreball conseqüència del Covid-19: 189314,18" | Punt informatic DocStation SSCC: 37979,60" | Subministrament 38 pc's portàtils: 40087,20"
+        "detalle": "Adquisició portàtils per a teletreball conseqüència del Covid-19: 189314,18 | Punt informatic DocStation SSCC: 37979,60 | Subministrament 38 pc's portàtils: 40087,20"
     },
     {
         "empresa": "ZIGA ZAGA SL",
         "total": "259987,01",
-        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 139480,89" | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (L.3,8,10): 120506,12"
+        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 139480,89 | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (L.3,8,10): 120506,12"
     },
     {
         "empresa": "PREVENTIVA SERVICIOS Y CONTROL S.L.",
         "total": "254898,23",
-        "detalle": "Auxiliars als mercats municipals de juliol-setem: 67865,03" | Control d'accès als mercat: 12474,13" | Control d'accès als mercat 2ª quinzena maig: 25323,60" | Control d'accès als mercat JUNY: 42421,63" | Control d'accès als mercats 20,21,27,28/03: 15173,40" | Control d'accès als mercats 3,4,9,11/04: 12138,72" | Control d'accesos: 33215,95" | Servei Auxiliar diversos mercats 17,18,24,25/4: 12538,02" | Serveis auxiliars de seguretat CEM VH 1 - 7 juny: 2310,13" | Serveis Auxiliars seguretat hospital CEM OLimpics: 21540,42" | Serveis de Vigilància mes de maig CEM Vall Hebron: 9897,20"
+        "detalle": "Auxiliars als mercats municipals de juliol-setem: 67865,03 | Control d'accès als mercat: 12474,13 | Control d'accès als mercat 2ª quinzena maig: 25323,60 | Control d'accès als mercat JUNY: 42421,63 | Control d'accès als mercats 20,21,27,28/03: 15173,40 | Control d'accès als mercats 3,4,9,11/04: 12138,72 | Control d'accesos: 33215,95 | Servei Auxiliar diversos mercats 17,18,24,25/4: 12538,02 | Serveis auxiliars de seguretat CEM VH 1 - 7 juny: 2310,13 | Serveis Auxiliars seguretat hospital CEM OLimpics: 21540,42 | Serveis de Vigilància mes de maig CEM Vall Hebron: 9897,20"
     },
     {
         "empresa": "DOUBLE CONTROL S.L.",
         "total": "249186,92",
-        "detalle": "Auxiliars mercat Encants de Sant Antoni: 26074,05" | Control d'accès als mercat: 14023,42" | Control d'accès als mercat 2ª quinzena maig: 24053,83" | Control d'accès als mercats 20,21,27,28/03: 18208,08" | Control d'accès als mercats 3,4,9,11/04: 13672,03" | Servei Auxiliar diversos mercats 17,18,24,25/4: 13656,06" | Servei Auxiliar diversos mercats juny: 39291,12" | Servei auxiliars als mercats municipals de juliol: 100208,33"
+        "detalle": "Auxiliars mercat Encants de Sant Antoni: 26074,05 | Control d'accès als mercat: 14023,42 | Control d'accès als mercat 2ª quinzena maig: 24053,83 | Control d'accès als mercats 20,21,27,28/03: 18208,08 | Control d'accès als mercats 3,4,9,11/04: 13672,03 | Servei Auxiliar diversos mercats 17,18,24,25/4: 13656,06 | Servei Auxiliar diversos mercats juny: 39291,12 | Servei auxiliars als mercats municipals de juliol: 100208,33"
     },
     {
         "empresa": "AUSOLAN RCN, S.L.",
         "total": "236320,64",
-        "detalle": "EMERGENCIA distribució domiciliària d’àpats: 93677,52" | EMERGENCIA distribució domiciliària d'àpats: 142643,12"
+        "detalle": "EMERGENCIA distribució domiciliària d’àpats: 93677,52 | EMERGENCIA distribució domiciliària d'àpats: 142643,12"
     },
     {
         "empresa": "CHIC STAYS SL",
         "total": "235224,36",
-        "detalle": "EMERGENCIA arrendament alberg juvenil c/Alí Bei: 218889,00" | EMERGENCIA Neteja i lloguer de l’Hostal Ali Bei: 16335,36"
+        "detalle": "EMERGENCIA arrendament alberg juvenil c/Alí Bei: 218889,00 | EMERGENCIA Neteja i lloguer de l’Hostal Ali Bei: 16335,36"
     },
     {
         "empresa": "Diagonal Food SL",
@@ -588,7 +588,7 @@
     {
         "empresa": "CORP. CLD SERVICIOS URBANOS T.R. S.",
         "total": "227375,34",
-        "detalle": "Desinfecció contenidors residus: 218295,00" | Neteja extraordinaria Fira bellcaire: 9080,34"
+        "detalle": "Desinfecció contenidors residus: 218295,00 | Neteja extraordinaria Fira bellcaire: 9080,34"
     },
     {
         "empresa": "DATALAB SL",
@@ -598,12 +598,12 @@
     {
         "empresa": "Iturri SA",
         "total": "211189,48",
-        "detalle": "Desifectant HUWA-SAN: 8900,00" | Desinfectant: 17151,75" | Pulveritzadors-fumigadors d'esquena: 1421,65" | Subministrament de mascaretes de tela reutilitzable: 88080,00" | Subministrament d'EPIS pel subministrament de garrafes 5L de gel hidroalcoholic: 53286,08" | Subministrament urgent de 10.000 mascaretes de protecció FFP2: 42350,00"
+        "detalle": "Desifectant HUWA-SAN: 8900,00 | Desinfectant: 17151,75 | Pulveritzadors-fumigadors d'esquena: 1421,65 | Subministrament de mascaretes de tela reutilitzable: 88080,00 | Subministrament d'EPIS pel subministrament de garrafes 5L de gel hidroalcoholic: 53286,08 | Subministrament urgent de 10.000 mascaretes de protecció FFP2: 42350,00"
     },
     {
         "empresa": "SABICO SEGURIDAD SA",
         "total": "208569,54",
-        "detalle": "Vigilància edifici municipal Palauet Albeniz: 32602,09" | Vigilància magatzem Carrer Perú: 28679,78" | Vigilància magatzem municipal c/ Perú 254: 15777,43" | Vigilància Palauet Albeniz: 131510,24"
+        "detalle": "Vigilància edifici municipal Palauet Albeniz: 32602,09 | Vigilància magatzem Carrer Perú: 28679,78 | Vigilància magatzem municipal c/ Perú 254: 15777,43 | Vigilància Palauet Albeniz: 131510,24"
     },
     {
         "empresa": "Facultative Technologies Iberica SL",
@@ -618,17 +618,17 @@
     {
         "empresa": "FORMACIO I TREBALL FUNDACIO PRIVADA",
         "total": "193722,41",
-        "detalle": "Continuïtat servei de pensió complerta: 50041,20" | EMERGENCIA serveis higiene i menjador pícnic: 121241,21" | Realització i desenvolupament servei pensió comple: 22440,00"
+        "detalle": "Continuïtat servei de pensió complerta: 50041,20 | EMERGENCIA serveis higiene i menjador pícnic: 121241,21 | Realització i desenvolupament servei pensió comple: 22440,00"
     },
     {
         "empresa": "KPMG ASESORES SL",
         "total": "170838,69",
-        "detalle": "Actualització continguts Safe City: 15427,50" | Implementació mesures seguretat Safe City: 47795,00" | Secretaria Tècnica - Fons Europeus: 107616,19"
+        "detalle": "Actualització continguts Safe City: 15427,50 | Implementació mesures seguretat Safe City: 47795,00 | Secretaria Tècnica - Fons Europeus: 107616,19"
     },
     {
         "empresa": "DIAL NETEGES SL",
         "total": "170389,78",
-        "detalle": "EMERGENCIA Neteja de l’Hotel Salut S. Família: 48010,38" | EMERGENCIA neteja dispositiu Hotel Salut S.Família: 104493,18" | EMERGÈNCIA servei neteja dispositiu Hotel Salut: 17886,22"
+        "detalle": "EMERGENCIA Neteja de l’Hotel Salut S. Família: 48010,38 | EMERGENCIA neteja dispositiu Hotel Salut S.Família: 104493,18 | EMERGÈNCIA servei neteja dispositiu Hotel Salut: 17886,22"
     },
     {
         "empresa": "AUREN ABOGADOS Y ASESORES FISCALES SP, S.L.",
@@ -643,22 +643,22 @@
     {
         "empresa": "VODAFONE ESPAÑA SA",
         "total": "166925,14",
-        "detalle": "subministrament de Plataforma d’escriptoris remots : 21000,00" | EMERGENCIA servei comunicacions veu i dades mòbils: 99878,76" | subministrament de línies de veu, dades i adaptadors mòbils: 18315,00" | Adquisició mòbils per a teletreball conseqüència del Covid-19: 20763,60" | Alta accés FTTH: 484,00" | Material telecomunicacions teletreball: 3968,80" | Servei Telecomunicacions teletreball (tarifa mensual): 2514,98"
+        "detalle": "subministrament de Plataforma d’escriptoris remots : 21000,00 | EMERGENCIA servei comunicacions veu i dades mòbils: 99878,76 | subministrament de línies de veu, dades i adaptadors mòbils: 18315,00 | Adquisició mòbils per a teletreball conseqüència del Covid-19: 20763,60 | Alta accés FTTH: 484,00 | Material telecomunicacions teletreball: 3968,80 | Servei Telecomunicacions teletreball (tarifa mensual): 2514,98"
     },
     {
         "empresa": "SERVICIOS MICROINFORMATICA SA",
         "total": "162336,63",
-        "detalle": "100 ordinadors portàtils : 109232,75" | 50 ordinadors portàtils : 53103,88"
+        "detalle": "100 ordinadors portàtils : 109232,75 | 50 ordinadors portàtils : 53103,88"
     },
     {
         "empresa": "EUROFINS MEGALAB SA",
         "total": "161950,00",
-        "detalle": "Adquisició i administració de proves PCR: 14950,00" | Compra 9000 test COVID: 108000,00" | Compra proves COVID 19 per GU: 7395,00" | Detección COVID-19 por PCR: 5605,00" | Proves detecció COVID-19: 26000,00"
+        "detalle": "Adquisició i administració de proves PCR: 14950,00 | Compra 9000 test COVID: 108000,00 | Compra proves COVID 19 per GU: 7395,00 | Detección COVID-19 por PCR: 5605,00 | Proves detecció COVID-19: 26000,00"
     },
     {
         "empresa": "TELEFONICA SOL. INFORM. Y COMUNIC.,",
         "total": "161890,56",
-        "detalle": "Subministrament de 130 portàtils Lenovo + perifèrics: 143741,77" | Subministrament de 23 portàtils Lenovo: 18148,79"
+        "detalle": "Subministrament de 130 portàtils Lenovo + perifèrics: 143741,77 | Subministrament de 23 portàtils Lenovo: 18148,79"
     },
     {
         "empresa": "SISTEMAS INTEGRALES DE REDES Y TELECOM., S.L",
@@ -673,17 +673,17 @@
     {
         "empresa": "UTE SUPORT EDUCATIU",
         "total": "155782,34",
-        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 83995,38" | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (L. 4,6,7): 71786,96"
+        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 83995,38 | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (L. 4,6,7): 71786,96"
     },
     {
         "empresa": "VWR INTERNATIONAL EUROLAB, SLU",
         "total": "154425,68",
-        "detalle": "Compra 125 tests ràpids COVID: 27830,00" | Compra 15.325 test ràpid COVID: 112792,00" | Compra 22 tests ràpids COVID: 4898,08" | Compra 40 tests ràpids COVID: 8905,60"
+        "detalle": "Compra 125 tests ràpids COVID: 27830,00 | Compra 15.325 test ràpid COVID: 112792,00 | Compra 22 tests ràpids COVID: 4898,08 | Compra 40 tests ràpids COVID: 8905,60"
     },
     {
         "empresa": "FUTUR I COMPROMÍS AMB L'EDUCACIÓ SL",
         "total": "154327,46",
-        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 84023,94" | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (LOT 2, 9): 70303,52"
+        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 84023,94 | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (LOT 2, 9): 70303,52"
     },
     {
         "empresa": "COBRA INSTALACIONES Y SERV. SL.",
@@ -708,12 +708,12 @@
     {
         "empresa": "PALEX MEDICAL SA",
         "total": "148709,00",
-        "detalle": "Compra mascaretes i ulleres protecció COVID-19: 123299,00" | Compra mascaretes tipus quirúrgic: 25410,00"
+        "detalle": "Compra mascaretes i ulleres protecció COVID-19: 123299,00 | Compra mascaretes tipus quirúrgic: 25410,00"
     },
     {
         "empresa": "SACYR SOCIAL SL",
         "total": "145723,86",
-        "detalle": "EMERGENCIA serveis Residència FORT PIENC: 50646,90" | EMERGENCIA subministrament EPIs SAD zona 2: 95076,96"
+        "detalle": "EMERGENCIA serveis Residència FORT PIENC: 50646,90 | EMERGENCIA subministrament EPIs SAD zona 2: 95076,96"
     },
     {
         "empresa": "INTERCENTROS BALLESOL SA",
@@ -723,12 +723,12 @@
     {
         "empresa": "ISS FACILITY SERVICES SA",
         "total": "139048,51",
-        "detalle": "EMERGÈNCIA alimentació diària Hotel Salut: 65862,85" | EMERGÈNCIA servei d'alimentació diària Hotel Salut: 73185,66"
+        "detalle": "EMERGÈNCIA alimentació diària Hotel Salut: 65862,85 | EMERGÈNCIA servei d'alimentació diària Hotel Salut: 73185,66"
     },
     {
         "empresa": "HOTEL SAGRADA FAMILIA SL",
         "total": "135000,59",
-        "detalle": "EMERGENCIA allotjament dispositiu Hotel Sagrada F.: 44050,20" | EMERGENCIA subm. equipament social Hotel Salut: 90950,39"
+        "detalle": "EMERGENCIA allotjament dispositiu Hotel Sagrada F.: 44050,20 | EMERGENCIA subm. equipament social Hotel Salut: 90950,39"
     },
     {
         "empresa": "ETRA BONAL, SA",
@@ -738,17 +738,17 @@
     {
         "empresa": "DATALAB TECNOLOGIA, SA",
         "total": "129675,29",
-        "detalle": "Aplicació de correctius a les plataformes POVI 1, 2 i 3: 49247,00" | POVI Serveis instalació sobre HW Huawei: 25410,00" | Suport Extra Tutors: 55018,29"
+        "detalle": "Aplicació de correctius a les plataformes POVI 1, 2 i 3: 49247,00 | POVI Serveis instalació sobre HW Huawei: 25410,00 | Suport Extra Tutors: 55018,29"
     },
     {
         "empresa": "PULIM, SA ",
         "total": "123168,43",
-        "detalle": "Prorroga del servei de desinfecció i neteja de l’oficina d’habitatge de Nou Barris en horari de 9 a 14 h, pel període comprès entre els dies 8 al 20 de setembre de 2020: 1126,64" | Prorroga del servei de desinfecció i neteja de les oficines d’habitatge d’Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó i Sant Andreu, pel període comprès entre els dies 11 al 20 de setembre de 2020 : 1083,50" | Prorroga del servei de neteja i desinfeccio 3 Oficines d'Habitatge (Ciutat Vella, Les Corts i Sant Martí), per al període comprès entre els dies 22 d’agost de 2020 i el 20 de setembre de 2020: 12784,99" | Servei de desinfecció i neteja de l’oficina d’habitatge de Nou Barris en horari de 9 a 14 h: 8262,03" | Servei de desinfecció i neteja de les oficines d’habitatge d’Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó i Sant Andreu: 57189,13" | Servei de neteja a fons oficines d’habitatge (6) de Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó, Nou Barris i Sant Andreu: 531,67" | Servei de neteja i desinfeccio 3 Oficines d'Habitatge (Ciutat Vella, Les Corts i Sant Martí): 42190,47"
+        "detalle": "Prorroga del servei de desinfecció i neteja de l’oficina d’habitatge de Nou Barris en horari de 9 a 14 h, pel període comprès entre els dies 8 al 20 de setembre de 2020: 1126,64 | Prorroga del servei de desinfecció i neteja de les oficines d’habitatge d’Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó i Sant Andreu, pel període comprès entre els dies 11 al 20 de setembre de 2020 : 1083,50 | Prorroga del servei de neteja i desinfeccio 3 Oficines d'Habitatge (Ciutat Vella, Les Corts i Sant Martí), per al període comprès entre els dies 22 d’agost de 2020 i el 20 de setembre de 2020: 12784,99 | Servei de desinfecció i neteja de l’oficina d’habitatge de Nou Barris en horari de 9 a 14 h: 8262,03 | Servei de desinfecció i neteja de les oficines d’habitatge d’Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó i Sant Andreu: 57189,13 | Servei de neteja a fons oficines d’habitatge (6) de Eixample, Sants-Montjuïc, Gràcia, Horta-Guinardó, Nou Barris i Sant Andreu: 531,67 | Servei de neteja i desinfeccio 3 Oficines d'Habitatge (Ciutat Vella, Les Corts i Sant Martí): 42190,47"
     },
     {
         "empresa": "INDUSTRIAL DE MAT. PARA VALLADOS SL",
         "total": "120635,19",
-        "detalle": "EMERGENCIA lloguer tanques mòbils Pavellons FIRA: 31224,46" | EMERGÈNCIA Lloguer tanques mòbils pavellons FIRA: 43918,81" | EMERGENCIA tanques mòbils dispositius FIRA: 45491,92"
+        "detalle": "EMERGENCIA lloguer tanques mòbils Pavellons FIRA: 31224,46 | EMERGÈNCIA Lloguer tanques mòbils pavellons FIRA: 43918,81 | EMERGENCIA tanques mòbils dispositius FIRA: 45491,92"
     },
     {
         "empresa": "COL. OFICIAL DE PSICOLEGS DE CATALU",
@@ -758,12 +758,12 @@
     {
         "empresa": "GRUPO CONTROL EMPRESA SEGURIDAD S.A",
         "total": "119084,06",
-        "detalle": "Serveis vig i seguretat 1-15 maig CEM Guinardó: 15527,69" | Serveis Vigilants Seg.Hosp.Camp. INEF Montjuïc: 10095,66" | Serveis Vigilants Seg.Hosp.Camp.-Guin.Claror,Inefc: 69561,76" | Serveis Vigilants Seguretat 16/5-7/6 CEM Guinardó: 23898,95"
+        "detalle": "Serveis vig i seguretat 1-15 maig CEM Guinardó: 15527,69 | Serveis Vigilants Seg.Hosp.Camp. INEF Montjuïc: 10095,66 | Serveis Vigilants Seg.Hosp.Camp.-Guin.Claror,Inefc: 69561,76 | Serveis Vigilants Seguretat 16/5-7/6 CEM Guinardó: 23898,95"
     },
     {
         "empresa": "FUNDACION AJUDA I ESPERANCA DE BARC",
         "total": "117340,00",
-        "detalle": "Atenció telefònica prevenció suïcidi: 95500,00" | Servei telèfon esperança per motiu del COVID-19: 21840,00"
+        "detalle": "Atenció telefònica prevenció suïcidi: 95500,00 | Servei telèfon esperança per motiu del COVID-19: 21840,00"
     },
     {
         "empresa": "KAPSCH TRAFFICCOM TRANSPORTATION, SA",
@@ -773,32 +773,32 @@
     {
         "empresa": "QUVITEC CENTRE D'AJUDES TÈCNIQ. SL",
         "total": "113166,07",
-        "detalle": "EMERGENCIA 100 tauletes pavelló sanitari INEFC: 11042,46" | EMERGENCIA 40 tauletes llit Residència Paral·lel: 4416,98" | EMERGENCIA cadires de dutxa i respatllers llit: 5138,66" | EMERGENCIA cinturons cadira rodes i baranes llit: 3559,45" | EMERGENCIA subm. 150 baranes llit R. Paral·lel: 11689,11" | EMERGENCIA subm. arnesos bipedestació i supensió: 1125,73" | EMERGENCIA submi. 25 llits sanitaris pavelló INEFC: 27529,01" | EMERGENCIA subministrament material sociosanitari: 48239,81" | EMERGENCIA subministrament palanganes R. Paral·lel: 424,86"
+        "detalle": "EMERGENCIA 100 tauletes pavelló sanitari INEFC: 11042,46 | EMERGENCIA 40 tauletes llit Residència Paral·lel: 4416,98 | EMERGENCIA cadires de dutxa i respatllers llit: 5138,66 | EMERGENCIA cinturons cadira rodes i baranes llit: 3559,45 | EMERGENCIA subm. 150 baranes llit R. Paral·lel: 11689,11 | EMERGENCIA subm. arnesos bipedestació i supensió: 1125,73 | EMERGENCIA submi. 25 llits sanitaris pavelló INEFC: 27529,01 | EMERGENCIA subministrament material sociosanitari: 48239,81 | EMERGENCIA subministrament palanganes R. Paral·lel: 424,86"
     },
     {
         "empresa": "MEINSA SISTEMAS, SL ",
         "total": "105964,66",
-        "detalle": "Subministrament de 20 Portàtils per a les Oficines d'Habitatge: 17676,89" | Subministrament portàtils i tablets -LOT 1-: 88287,77"
+        "detalle": "Subministrament de 20 Portàtils per a les Oficines d'Habitatge: 17676,89 | Subministrament portàtils i tablets -LOT 1-: 88287,77"
     },
     {
         "empresa": "SISTEMAS INFORMATICOS ABIERTOS, SA",
         "total": "103668,00",
-        "detalle": "Manteniment llicències GETACCES / Adquisició 250 llicències getacces: 49368,00" | Reforç del servei de GIA per a gestió d'identitas, autenticació i autoritzacions: 54300,00"
+        "detalle": "Manteniment llicències GETACCES / Adquisició 250 llicències getacces: 49368,00 | Reforç del servei de GIA per a gestió d'identitas, autenticació i autoritzacions: 54300,00"
     },
     {
         "empresa": "RONDA DE DALT RESIDENCIAL, S.L",
         "total": "102772,80",
-        "detalle": "EMERGENCIA Lloguer espais Disp. Urgència R.de dalt: 51105,60" | EMERGENCIA serveis vinculats dipositiu residencial: 51667,20"
+        "detalle": "EMERGENCIA Lloguer espais Disp. Urgència R.de dalt: 51105,60 | EMERGENCIA serveis vinculats dipositiu residencial: 51667,20"
     },
     {
         "empresa": "EXHIBITION STAND DESIGN DECOR SL",
         "total": "100718,10",
-        "detalle": "Adquisició d’equips de protecció individual (EPIs), material sanitari i de prevenció de riscos laborals per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 1452,00" | Adquisició de mampares i d’altres elements de protecció i senyalització per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 9472,00" | Compra i instal•lació de mampares protectores: 25100,24" | Mampares equipaments Dte  COVID-19: 14792,25" | Subministrament i col·locació de mampares de protecció per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 49901,61"
+        "detalle": "Adquisició d’equips de protecció individual (EPIs), material sanitari i de prevenció de riscos laborals per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 1452,00 | Adquisició de mampares i d’altres elements de protecció i senyalització per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 9472,00 | Compra i instal•lació de mampares protectores: 25100,24 | Mampares equipaments Dte  COVID-19: 14792,25 | Subministrament i col·locació de mampares de protecció per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 49901,61"
     },
     {
         "empresa": "BUSINESS STRENGTHS ENGINEERING, SL",
         "total": "100086,41",
-        "detalle": "Adequació centres electorals: 47013,39" | Suport gestió ampliació de terrasses espai públic: 53073,02"
+        "detalle": "Adequació centres electorals: 47013,39 | Suport gestió ampliació de terrasses espai públic: 53073,02"
     },
     {
         "empresa": "Vestilab",
@@ -813,12 +813,12 @@
     {
         "empresa": "GERODAN S.COOP.",
         "total": "92365,65",
-        "detalle": "EMERGENCIA 140 butaques per Residència Paral·lel: 41475,47" | EMERGENCIA 160 butaques geriàtriques R.Paral·lel: 35128,72" | EMERGENCIA subm. 40 butaques Resid. Room Mate: 15761,46"
+        "detalle": "EMERGENCIA 140 butaques per Residència Paral·lel: 41475,47 | EMERGENCIA 160 butaques geriàtriques R.Paral·lel: 35128,72 | EMERGENCIA subm. 40 butaques Resid. Room Mate: 15761,46"
     },
     {
         "empresa": "SERVEIS I COMPLEMENTS INFRAESTRUC,",
         "total": "92311,38",
-        "detalle": "Explotació dades afectació Covid_19: 88845,46" | Suport tècnic comunicació: 3465,92"
+        "detalle": "Explotació dades afectació Covid_19: 88845,46 | Suport tècnic comunicació: 3465,92"
     },
     {
         "empresa": "INDRA SOLUCIONES TECNOLOGIAS DE LA",
@@ -833,7 +833,7 @@
     {
         "empresa": "INAD-HOC HABITAT SL",
         "total": "86427,06",
-        "detalle": "Subministrament de pals separadors amb cintes.: 6220,91" | Compra matalassos i somiers: 61226,77" | EMERGENCIA subm.pels espais d’allotjament temporal: 14354,76" | Subministrament de mampares de metaclrilat: 4624,62"
+        "detalle": "Subministrament de pals separadors amb cintes.: 6220,91 | Compra matalassos i somiers: 61226,77 | EMERGENCIA subm.pels espais d’allotjament temporal: 14354,76 | Subministrament de mampares de metaclrilat: 4624,62"
     },
     {
         "empresa": "SOLUCIONS GEOGRAFIQUES, SCCL",
@@ -843,12 +843,12 @@
     {
         "empresa": "DOUBLET IBERICA SA",
         "total": "83157,74",
-        "detalle": "Compra 68 mampares amb rodes: 17363,50" | Compra 80 mampares amb rodes: 18313,35" | EMERGENCIA 69 mampares per la residència Paral·lel: 17115,45" | Subministrament de pals separadors amb cintes: 4576,83" | subministrament elements accessos PATSA: 25788,61"
+        "detalle": "Compra 68 mampares amb rodes: 17363,50 | Compra 80 mampares amb rodes: 18313,35 | EMERGENCIA 69 mampares per la residència Paral·lel: 17115,45 | Subministrament de pals separadors amb cintes: 4576,83 | subministrament elements accessos PATSA: 25788,61"
     },
     {
         "empresa": "MISSIONERS CLARETIANS DE CATALUNYA",
         "total": "82280,00",
-        "detalle": "EMERGENCIA subministraments Centre Acollida Joves: 20570,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 15/04 - 15/05: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/05 - 15/06: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/06 - 15/07: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/07 - 15/08: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/08 - 15/09: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/09 - 15/10: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/10 - 15/11: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/11 - 15/12: 7260,00" | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/12 - 31/12: 3630,00"
+        "detalle": "EMERGENCIA subministraments Centre Acollida Joves: 20570,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 15/04 - 15/05: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/05 - 15/06: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/06 - 15/07: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/07 - 15/08: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/08 - 15/09: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/09 - 15/10: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/10 - 15/11: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/11 - 15/12: 7260,00 | EMERGENCIA arrend. mobiliari Centre Acollida Joves 16/12 - 31/12: 3630,00"
     },
     {
         "empresa": "NOTHINGAD COMUNICACIÓ S.L",
@@ -858,37 +858,37 @@
     {
         "empresa": "DISSENY BARRACA, SL",
         "total": "78094,50",
-        "detalle": "Subministrament i col·locació tanques platges: 63106,90" | Tancament platges fase 2: 14987,60"
+        "detalle": "Subministrament i col·locació tanques platges: 63106,90 | Tancament platges fase 2: 14987,60"
     },
     {
         "empresa": "QUIRON PREVENCION SL",
         "total": "77500,00",
-        "detalle": "Informes de determinació de personal sensible: 60000,00" | Informes determinació personal sensible: 17500,00"
+        "detalle": "Informes de determinació de personal sensible: 60000,00 | Informes determinació personal sensible: 17500,00"
     },
     {
         "empresa": "ARA VINC, S.L.",
         "total": "76767,02",
-        "detalle": "EMERGENCIA serveis de missatgeria: 29227,86" | Servei de missatgeria per els mercats i Seu: 3500,00" | Transport proveïment CEM pavelló olímpics Vall Heb: 44039,16"
+        "detalle": "EMERGENCIA serveis de missatgeria: 29227,86 | Servei de missatgeria per els mercats i Seu: 3500,00 | Transport proveïment CEM pavelló olímpics Vall Heb: 44039,16"
     },
     {
         "empresa": "VIMAD GLOBAL SERVICES SL",
         "total": "76616,60",
-        "detalle": "Mascaretes per a la protecció profilàctica per GUB: 32500,00" | Subministrament gel hidroalcohòlic GUB: 30322,60" | Ulleres per a la protecció profilàctica GUB: 13794,00"
+        "detalle": "Mascaretes per a la protecció profilàctica per GUB: 32500,00 | Subministrament gel hidroalcohòlic GUB: 30322,60 | Ulleres per a la protecció profilàctica GUB: 13794,00"
     },
     {
         "empresa": "ECONOCOM SERVICIOS, SA",
         "total": "75902,50",
-        "detalle": "subministrament de Servei de SAU TIC: 27200,00" | Ampliació SAU (23 abril -31 maig): 27527,50" | Ampliació SAU (23 març-22 d'abril): 21175,00"
+        "detalle": "subministrament de Servei de SAU TIC: 27200,00 | Ampliació SAU (23 abril -31 maig): 27527,50 | Ampliació SAU (23 març-22 d'abril): 21175,00"
     },
     {
         "empresa": "ANALISIS Y SERVICIOS INTEGRALES POR",
         "total": "75018,27",
-        "detalle": "Compra 800 ampolles 500 ml gel hidroalcohòlic: 7356,80" | Compra 96 garrafes 5l gel hidroalcohólic: 4989,07" | Gel antisèptic: 41672,40" | Subministrament d'EPIS pel subministrament de desinfectant de superfícies en spray: 21000,00"
+        "detalle": "Compra 800 ampolles 500 ml gel hidroalcohòlic: 7356,80 | Compra 96 garrafes 5l gel hidroalcohólic: 4989,07 | Gel antisèptic: 41672,40 | Subministrament d'EPIS pel subministrament de desinfectant de superfícies en spray: 21000,00"
     },
     {
         "empresa": "ZENON DIGITAL RADIO SL",
         "total": "73037,49",
-        "detalle": "Material (bateries, antenes,... SPEIS: 13253,81" | Material fungible de ràdio: 20307,43" | Material fungible ràdio (bateries i PTT) GUB: 39476,25"
+        "detalle": "Material (bateries, antenes,... SPEIS: 13253,81 | Material fungible de ràdio: 20307,43 | Material fungible ràdio (bateries i PTT) GUB: 39476,25"
     },
     {
         "empresa": "ACCIONA MULTISERVICIOS , S.A.",
@@ -908,7 +908,7 @@
     {
         "empresa": "MIATEC INNOVA SL",
         "total": "72259,29",
-        "detalle": "Compra cinta marcar i brides: 1123,32" | Obres reparació desperfectes vandalisme 31/10 Cons: 71135,97"
+        "detalle": "Compra cinta marcar i brides: 1123,32 | Obres reparació desperfectes vandalisme 31/10 Cons: 71135,97"
     },
     {
         "empresa": "TELEVIDA SERV. SOCIOSANITARIOS SL",
@@ -918,7 +918,7 @@
     {
         "empresa": "SABORIT INTERNATIONAL SL",
         "total": "69239,19",
-        "detalle": "Gel antisèptic i pantalles facials protectores: 21172,58" | Gel antisèptic per a la GUB: 21344,40" | Guants protecció i gel antisèptic GUB: 9539,00" | Material profilàtic divers per a la GUB: 17183,21"
+        "detalle": "Gel antisèptic i pantalles facials protectores: 21172,58 | Gel antisèptic per a la GUB: 21344,40 | Guants protecció i gel antisèptic GUB: 9539,00 | Material profilàtic divers per a la GUB: 17183,21"
     },
     {
         "empresa": "PREVENCONTROL, SA",
@@ -933,7 +933,7 @@
     {
         "empresa": "METROPOLIS CENTRE ESPECIAL DE TREBALL, SLU",
         "total": "66761,75",
-        "detalle": "Serveis de control d'accessos de la xarxa d'oficines dels serveis d'habitatges de Barcelona: 6606,60" | Suport extern per al control d’accessos de les persones citades per cita prèvia per a ser ateses a les diferents oficines d’habitatge i per garantir l’accés ordenat amb motiu de la crisi sanitària ocasionada pel COVID-19: 60155,15"
+        "detalle": "Serveis de control d'accessos de la xarxa d'oficines dels serveis d'habitatges de Barcelona: 6606,60 | Suport extern per al control d’accessos de les persones citades per cita prèvia per a ser ateses a les diferents oficines d’habitatge i per garantir l’accés ordenat amb motiu de la crisi sanitària ocasionada pel COVID-19: 60155,15"
     },
     {
         "empresa": "GOROKA CONTENTS SL",
@@ -953,7 +953,7 @@
     {
         "empresa": "INCOOP, SCCL",
         "total": "63154,65",
-        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 33964,65" | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (LOT 11): 29190,00"
+        "detalle": "AMPLIACIÓ HORES DE SUPORT EDUCATIU A LES EB: 33964,65 | SERVEI EXTRAORDINARI DE SUPORT EDUCATIU (LOT 11): 29190,00"
     },
     {
         "empresa": "GESTIÓ EXTERNA D'APLICACIONS, SA (GEASA)",
@@ -963,12 +963,12 @@
     {
         "empresa": "METALCO SA",
         "total": "60867,10",
-        "detalle": "Material  variat de protecció i desinfecció: 8537,72" | Material de protecció i desinfecció SPEIS: 1495,43" | Material protecció personal GUB i SPEIS: 46602,80" | Material variat de protecció i desinfecció: 2382,37" | Subministrament sabó i guants làtex: 1848,78"
+        "detalle": "Material  variat de protecció i desinfecció: 8537,72 | Material de protecció i desinfecció SPEIS: 1495,43 | Material protecció personal GUB i SPEIS: 46602,80 | Material variat de protecció i desinfecció: 2382,37 | Subministrament sabó i guants làtex: 1848,78"
     },
     {
         "empresa": "DDBIOLAB, SL",
         "total": "60807,61",
-        "detalle": "Compra d'EPIS (gel, guants i mascaretes): 1650,00" | Compra guants nitrilo Confort: 204,60" | Gel antiseptic o hidrogel: 7826,00" | Gel hidroalcoholic: 1158,00" | Gels antiseptics: 3478,51" | Guants kimtech science: 1627,50" | Guants nitrilo comfort: 372,00" | Guants nitrilo comfort talles S, M, L: 1581,00" | Guants nitrilo i kimtech: 1813,50" | Guants, mascaretes i gel: 13976,00" | Mascaretes tipus quirúrgiques: 7320,50" | Mascaretes un sol us: 19800,00"
+        "detalle": "Compra d'EPIS (gel, guants i mascaretes): 1650,00 | Compra guants nitrilo Confort: 204,60 | Gel antiseptic o hidrogel: 7826,00 | Gel hidroalcoholic: 1158,00 | Gels antiseptics: 3478,51 | Guants kimtech science: 1627,50 | Guants nitrilo comfort: 372,00 | Guants nitrilo comfort talles S, M, L: 1581,00 | Guants nitrilo i kimtech: 1813,50 | Guants, mascaretes i gel: 13976,00 | Mascaretes tipus quirúrgiques: 7320,50 | Mascaretes un sol us: 19800,00"
     },
     {
         "empresa": "DISTRIAIRSOFT SL",
@@ -978,7 +978,7 @@
     {
         "empresa": "MAS PREVENCION SERV.DE PREVENC. SLU",
         "total": "57309,50",
-        "detalle": "Administracio vacuna antigripal treballadors: 2622,00" | EMERGENCIA seguiment casos COVID personal IMSS: 35000,00" | EMERGENCIA seguiment dels casos COVID-19: 19687,50"
+        "detalle": "Administracio vacuna antigripal treballadors: 2622,00 | EMERGENCIA seguiment casos COVID personal IMSS: 35000,00 | EMERGENCIA seguiment dels casos COVID-19: 19687,50"
     },
     {
         "empresa": "MIRALLES I SERRA ASSESSORS SL",
@@ -988,12 +988,12 @@
     {
         "empresa": "ALKIRENT SERVI SL",
         "total": "57129,93",
-        "detalle": "EMERGENCIA dutxes i rentamans al Pavelló 7B FIRA: 10564,27" | EMERGENCIA lloguer rentamans i dutxes Pavelló 7B: 16506,34" | EMERGENCIA subministrament dutxes equipament FIRA: 30059,32"
+        "detalle": "EMERGENCIA dutxes i rentamans al Pavelló 7B FIRA: 10564,27 | EMERGENCIA lloguer rentamans i dutxes Pavelló 7B: 16506,34 | EMERGENCIA subministrament dutxes equipament FIRA: 30059,32"
     },
     {
         "empresa": "IMESAPI SA",
         "total": "56557,10",
-        "detalle": "EMERGENCIA adequació espai allotjament P. Calafell: 11782,18" | EMERGENCIA instal·lació dutxes i vestidors Fira: 26054,28" | EMERGENCIA muntatge llits Hotel Carla Room Mate: 1724,32" | EMERGENCIA Reparació i adequació espai allotjament: 9391,40" | Pre instal·lacions càmeres Pg. Maritim fase 2: 7604,92"
+        "detalle": "EMERGENCIA adequació espai allotjament P. Calafell: 11782,18 | EMERGENCIA instal·lació dutxes i vestidors Fira: 26054,28 | EMERGENCIA muntatge llits Hotel Carla Room Mate: 1724,32 | EMERGENCIA Reparació i adequació espai allotjament: 9391,40 | Pre instal·lacions càmeres Pg. Maritim fase 2: 7604,92"
     },
     {
         "empresa": "NEXT MEDIA PROJECT SLU",
@@ -1003,7 +1003,7 @@
     {
         "empresa": "BUREAU VERITAS, S.L.U.",
         "total": "55793,00",
-        "detalle": "Serveis de certificació de les instal·lacions de Cementiris de Barcelona, Montjuïc, Collserola, Les Corts, Poblenou, Sarrià, Sants, Sant Andreu, Sant Gervasi i Horta, en el marc de l’estat d’alarma per pandèmia per COVID19: 8330,00" | Serveis de certificació de les instal·lacions del Parc d’Atraccions del Tibidabo, en el marc de l’estat d’alarma per pandèmia per COVID19: 5391,00" | Serveis de certificació de les oficines de BSM a Calabria, i les unitats Anella Olímpica, Aparcaments (els 53), Estacions, Fòrum, Port Olímpic, Zoo, Grues i Parc Güell, en el marc de l’estat d’alarma per pandèmia per COVID19: 42072,00"
+        "detalle": "Serveis de certificació de les instal·lacions de Cementiris de Barcelona, Montjuïc, Collserola, Les Corts, Poblenou, Sarrià, Sants, Sant Andreu, Sant Gervasi i Horta, en el marc de l’estat d’alarma per pandèmia per COVID19: 8330,00 | Serveis de certificació de les instal·lacions del Parc d’Atraccions del Tibidabo, en el marc de l’estat d’alarma per pandèmia per COVID19: 5391,00 | Serveis de certificació de les oficines de BSM a Calabria, i les unitats Anella Olímpica, Aparcaments (els 53), Estacions, Fòrum, Port Olímpic, Zoo, Grues i Parc Güell, en el marc de l’estat d’alarma per pandèmia per COVID19: 42072,00"
     },
     {
         "empresa": "PETIT COMITE DEL DISSENY SL",
@@ -1013,7 +1013,7 @@
     {
         "empresa": "EULEN SERVICIOS SOCIOSANITARIOS SA",
         "total": "52730,67",
-        "detalle": "EMERGENCIA Reforç C.Residencials F.Pienc,F.Layret: 45342,36" | EMERGENCIA Subministrament materials desinfecció: 7388,31"
+        "detalle": "EMERGENCIA Reforç C.Residencials F.Pienc,F.Layret: 45342,36 | EMERGENCIA Subministrament materials desinfecció: 7388,31"
     },
     {
         "empresa": "ROBIN HAT SL",
@@ -1048,7 +1048,7 @@
     {
         "empresa": "FUNDACIÓ INSTITUT DE REINSERSIÓ SOC",
         "total": "47153,27",
-        "detalle": "Servei d'atenció per teletreball del SAH: 36596,56" | Servei de seguiment i atenció per teletreball SAH: 10556,71"
+        "detalle": "Servei d'atenció per teletreball del SAH: 36596,56 | Servei de seguiment i atenció per teletreball SAH: 10556,71"
     },
     {
         "empresa": "GABINET D'ESTUDIS SOCIALS I OPINIÓ",
@@ -1058,7 +1058,7 @@
     {
         "empresa": "TEISER MANTENIMENTS SL",
         "total": "46600,61",
-        "detalle": "Compra cobrellits matalassos i elements ferreteria: 2104,07" | Subministrament de mampares de separació: 18750,16" | Subministrament i col·locació de mampares separadores a les Oficines d'habitatge de l'Eixample, Sants-Montjuic, Les Corts, Gràcia, Nou Barris, Horta-Guinardó i zones d'atenció al públic de les oficines de l'IMHAB del carrer Doctor Aiguader, 15 i 36, pel distanciament social, com a mesura preventiva per evitar la propagació d'el COVID-19: 22963,38" | Subministrament mampares portatils: 2783,00"
+        "detalle": "Compra cobrellits matalassos i elements ferreteria: 2104,07 | Subministrament de mampares de separació: 18750,16 | Subministrament i col·locació de mampares separadores a les Oficines d'habitatge de l'Eixample, Sants-Montjuic, Les Corts, Gràcia, Nou Barris, Horta-Guinardó i zones d'atenció al públic de les oficines de l'IMHAB del carrer Doctor Aiguader, 15 i 36, pel distanciament social, com a mesura preventiva per evitar la propagació d'el COVID-19: 22963,38 | Subministrament mampares portatils: 2783,00"
     },
     {
         "empresa": "GRUP D'ACCIÓ IMMEDIATA SL",
@@ -1073,7 +1073,7 @@
     {
         "empresa": "ADARO TECNOLOGIA SA",
         "total": "45174,93",
-        "detalle": "Adquisició gel antisèptic: 2057,00" | Gel antisèptic GUB: 18149,98" | Gel antisèptic per a la GSP: 3330,00" | Gel antisèptic per a la GUB: 18147,94" | Mascaretes per a la protecció profilàctica per GUB: 1138,01" | Suports paret dossificadors gel antisèptic GUB: 1452,00" | Suports paret per a dosificadors gel antisèptic: 600,00" | Suports paret per a dosificadors gel antisèptic GU: 300,00"
+        "detalle": "Adquisició gel antisèptic: 2057,00 | Gel antisèptic GUB: 18149,98 | Gel antisèptic per a la GSP: 3330,00 | Gel antisèptic per a la GUB: 18147,94 | Mascaretes per a la protecció profilàctica per GUB: 1138,01 | Suports paret dossificadors gel antisèptic GUB: 1452,00 | Suports paret per a dosificadors gel antisèptic: 600,00 | Suports paret per a dosificadors gel antisèptic GU: 300,00"
     },
     {
         "empresa": "ASSOCIACIO ESCLAT",
@@ -1083,7 +1083,7 @@
     {
         "empresa": "ESPORT3 SERVEIS ALTERNATIUS SL",
         "total": "43965,00",
-        "detalle": "Servei obertura punts repartiment àpats COVID 19: 38406,94" | Servei suport residents Apartaments la Capa: 5558,06"
+        "detalle": "Servei obertura punts repartiment àpats COVID 19: 38406,94 | Servei suport residents Apartaments la Capa: 5558,06"
     },
     {
         "empresa": "AIRBOX, S.A.",
@@ -1098,7 +1098,7 @@
     {
         "empresa": "KOLN STUDIO SL",
         "total": "41140,00",
-        "detalle": "Conceptualització, dir.campanya BCN desde casa: 41140,00" | Servei d’emissió d’un dictamen d’avaluació de l’estat dels pantalans del Port Olímpic de Barcelona: 39325,00"
+        "detalle": "Conceptualització, dir.campanya BCN desde casa: 41140,00 | Servei d’emissió d’un dictamen d’avaluació de l’estat dels pantalans del Port Olímpic de Barcelona: 39325,00"
     },
     {
         "empresa": "SERVEIS INTEGRALS DE FINQUES URBANES S.L.",
@@ -1108,17 +1108,17 @@
     {
         "empresa": "EL CORTE INGLES SA",
         "total": "37174,43",
-        "detalle": "Compra 500 fundes matalassos: 16862,32" | EMERGENCIA mobiliari Residència Paral·lel: 16447,37" | EMERGENCIA prestatges per la residència Paral·lel: 3864,74"
+        "detalle": "Compra 500 fundes matalassos: 16862,32 | EMERGENCIA mobiliari Residència Paral·lel: 16447,37 | EMERGENCIA prestatges per la residència Paral·lel: 3864,74"
     },
     {
         "empresa": "SEGURIDAD PREVENTIVA CUATRO SL",
         "total": "37107,86",
-        "detalle": "Servei vigilant seguretat hospital campanya VH: 17967,00" | Serveis de seg i vigilància CEM VH 1 - 8 juny: 3511,82" | Serveis de Vigilància mes de maig CEM Vall Hebron: 15629,04"
+        "detalle": "Servei vigilant seguretat hospital campanya VH: 17967,00 | Serveis de seg i vigilància CEM VH 1 - 8 juny: 3511,82 | Serveis de Vigilància mes de maig CEM Vall Hebron: 15629,04"
     },
     {
         "empresa": "RECERCA I DESENVOLUPAMENT EMP SL",
         "total": "36841,39",
-        "detalle": "EMERGENCIA enviament cartes certificades COVID: 14190,19" | EMERGÈNCIA tramesa postal massiva gent gran: 22651,20"
+        "detalle": "EMERGENCIA enviament cartes certificades COVID: 14190,19 | EMERGÈNCIA tramesa postal massiva gent gran: 22651,20"
     },
     {
         "empresa": "BARCELONA DE SERVEIS MUNICIPALS SA",
@@ -1138,12 +1138,12 @@
     {
         "empresa": "INICIATIVA SUMME, SL",
         "total": "36279,43",
-        "detalle": "Compra 4017 uds gel hidroalcohòlic de 250 ml: 19442,28" | Compra gel hidroalcohólic: 16837,15"
+        "detalle": "Compra 4017 uds gel hidroalcohòlic de 250 ml: 19442,28 | Compra gel hidroalcohólic: 16837,15"
     },
     {
         "empresa": "EL PRINCIPI D'OCCAM SL",
         "total": "36278,22",
-        "detalle": "Continuïtat servei seguiment, monit. i acompan. BC: 18139,11" | Pla de seguiment usuairs Baixem al Carrer: 18139,11"
+        "detalle": "Continuïtat servei seguiment, monit. i acompan. BC: 18139,11 | Pla de seguiment usuairs Baixem al Carrer: 18139,11"
     },
     {
         "empresa": "TEJIDOS REBÉS SL",
@@ -1158,22 +1158,22 @@
     {
         "empresa": "PENTEX-PENSILVANIA TEXTIL SL",
         "total": "35934,58",
-        "detalle": "EMERGENCIA roba interior per Gimnàs social St Pau: 8973,36" | EMERGENCIA roba interior per servei dutxes: 9014,50" | EMERGENCIA roba interior servei de dutxes i rober: 17946,72"
+        "detalle": "EMERGENCIA roba interior per Gimnàs social St Pau: 8973,36 | EMERGENCIA roba interior per servei dutxes: 9014,50 | EMERGENCIA roba interior servei de dutxes i rober: 17946,72"
     },
     {
         "empresa": "BEST OF TV IBERIA, S.L.",
         "total": "35064,00",
-        "detalle": "Mascaretes FFP2 i FFP3: 14814,00" | Subministrament de mascaretes 4.500 FFP3 per l'SPE: 20250,00"
+        "detalle": "Mascaretes FFP2 i FFP3: 14814,00 | Subministrament de mascaretes 4.500 FFP3 per l'SPE: 20250,00"
     },
     {
         "empresa": "SALTA EMPRESA D’INSERCIO SL",
         "total": "35015,60",
-        "detalle": "Serveis d’ampliació i/o repàs de confecció de mascaretes COVID-19 per a personal municipal: 22022,00" | Serveis de confecció de mascaretes COVID-19 per a personal municipal: 12993,60"
+        "detalle": "Serveis d’ampliació i/o repàs de confecció de mascaretes COVID-19 per a personal municipal: 22022,00 | Serveis de confecció de mascaretes COVID-19 per a personal municipal: 12993,60"
     },
     {
         "empresa": "FUTURSALUT SL",
         "total": "33580,74",
-        "detalle": "Compra 250 uds respatllers regulables: 7780,30" | Compra elevadors WC i potes llits: 22250,25" | Compra taburets baixos: 929,28" | EMERGENCIA complements de llit R. Room Mate: 2620,91"
+        "detalle": "Compra 250 uds respatllers regulables: 7780,30 | Compra elevadors WC i potes llits: 22250,25 | Compra taburets baixos: 929,28 | EMERGENCIA complements de llit R. Room Mate: 2620,91"
     },
     {
         "empresa": "SETTING CONSULTORIA EN TECNOLOGIAS",
@@ -1228,12 +1228,12 @@
     {
         "empresa": "REHAB EUROPA, SL",
         "total": "28909,80",
-        "detalle": "Gel desinfectant: 7477,80" | Guants de nitril: 3282,00" | Mascaretes: 18150,00"
+        "detalle": "Gel desinfectant: 7477,80 | Guants de nitril: 3282,00 | Mascaretes: 18150,00"
     },
     {
         "empresa": "BURRITO BLANCO SL",
         "total": "28433,80",
-        "detalle": "EMERGENCIA subministrament aixovar tèxtil  Fira 7A: 14216,90" | EMERGENCIA subministrament aixovar tèxtil  Fira 7B: 14216,90"
+        "detalle": "EMERGENCIA subministrament aixovar tèxtil  Fira 7A: 14216,90 | EMERGENCIA subministrament aixovar tèxtil  Fira 7B: 14216,90"
     },
     {
         "empresa": "SPORA SINERGIES SCCL",
@@ -1253,7 +1253,7 @@
     {
         "empresa": "INTERFACE SAFEACCESS, SL",
         "total": "25938,53",
-        "detalle": "Subministrament de 125 LLICÈNCIES Office 365 Empresarial, per un periode d'un any.: 15972,00" | Suministrament llicències Office 365 Empresa (38) LOT 2: 4855,49" | Suministrament llicències Office 365 Empresa (40) LOT 2: 5111,04"
+        "detalle": "Subministrament de 125 LLICÈNCIES Office 365 Empresarial, per un periode d'un any.: 15972,00 | Suministrament llicències Office 365 Empresa (38) LOT 2: 4855,49 | Suministrament llicències Office 365 Empresa (40) LOT 2: 5111,04"
     },
     {
         "empresa": "PRODUCTOS ELECTRICOS,S.L.(PRODELEC)",
@@ -1263,12 +1263,12 @@
     {
         "empresa": "FUNDACIO PRIVADA CENTRE CIM",
         "total": "25550,22",
-        "detalle": "Fabricació i Subministrament EPI's: 13874,68" | Materials diversos pels Ateneus de fabricació: 11675,54"
+        "detalle": "Fabricació i Subministrament EPI's: 13874,68 | Materials diversos pels Ateneus de fabricació: 11675,54"
     },
     {
         "empresa": "PMC GRUP 1985 SA",
         "total": "25506,61",
-        "detalle": "Compra 150 caixes de plàstic: 5394,18" | EMERGENCIA 141 papereres Residència Paral·lel: 3565,75" | EMERGENCIA 20 caixes plàstic Residència Paral·lel: 719,22" | EMERGENCIA 200 carpetes per Residència Paral·lel: 726,00" | EMERGENCIA carpetes i caixes per R. Room Mate: 506,17" | EMERGENCIA rellotges de paret Residència Paral·lel: 226,39" | EMERGENCIA subm 184 taquilles Residència Paral·lel: 8294,70" | Subministrament de 2.000 rotllos de cel·lo: 6074,20"
+        "detalle": "Compra 150 caixes de plàstic: 5394,18 | EMERGENCIA 141 papereres Residència Paral·lel: 3565,75 | EMERGENCIA 20 caixes plàstic Residència Paral·lel: 719,22 | EMERGENCIA 200 carpetes per Residència Paral·lel: 726,00 | EMERGENCIA carpetes i caixes per R. Room Mate: 506,17 | EMERGENCIA rellotges de paret Residència Paral·lel: 226,39 | EMERGENCIA subm 184 taquilles Residència Paral·lel: 8294,70 | Subministrament de 2.000 rotllos de cel·lo: 6074,20"
     },
     {
         "empresa": "VIDAL I PORTA, S.L",
@@ -1288,7 +1288,7 @@
     {
         "empresa": "AUBERT SA",
         "total": "24131,21",
-        "detalle": "Compra material vari ferreteria: 14014,43" | EMERGENCIA penjadors Residència Carla Hotel: 3929,98" | Guants de nitril per a SPEIS: 527,00" | Material divers pavellons sanitaris d'emergència: 1224,04" | Materials de ferreteria per a la neteja d'equips: 3515,72" | Productes varis de neteja d'SPEIS: 293,86" | Subministrament polvoritzadors a bateria 30 litres: 626,18"
+        "detalle": "Compra material vari ferreteria: 14014,43 | EMERGENCIA penjadors Residència Carla Hotel: 3929,98 | Guants de nitril per a SPEIS: 527,00 | Material divers pavellons sanitaris d'emergència: 1224,04 | Materials de ferreteria per a la neteja d'equips: 3515,72 | Productes varis de neteja d'SPEIS: 293,86 | Subministrament polvoritzadors a bateria 30 litres: 626,18"
     },
     {
         "empresa": "MASTER PLAN, SL",
@@ -1323,7 +1323,7 @@
     {
         "empresa": "QSL SERVEIS CULTURALS SLU",
         "total": "23194,35",
-        "detalle": "Acompanyament telemàtic emergència Dedeuauna: 18323,54" | Continuïtat acompanyament telemàtic eme. Dedeuauna: 4870,81"
+        "detalle": "Acompanyament telemàtic emergència Dedeuauna: 18323,54 | Continuïtat acompanyament telemàtic eme. Dedeuauna: 4870,81"
     },
     {
         "empresa": "Varcity España, S.A.",
@@ -1333,7 +1333,7 @@
     {
         "empresa": "EMESET PROJECTES I ENGINYERIA SLP",
         "total": "22548,35",
-        "detalle": "Estudi ventilació Avinyo, 15: 526,35" | Estudi ventilació edificis municipals: 22022,00"
+        "detalle": "Estudi ventilació Avinyo, 15: 526,35 | Estudi ventilació edificis municipals: 22022,00"
     },
     {
         "empresa": "JANE, SA",
@@ -1358,12 +1358,12 @@
     {
         "empresa": "OBRES MAVIC SL",
         "total": "21484,70",
-        "detalle": "Compra material divers hospitals: 2405,78" | EMERGENCIA subm. de material Residencia Paral·lel: 1507,30" | Mamapares de metracrilat: 12160,50" | Manpares protectores: 5411,12"
+        "detalle": "Compra material divers hospitals: 2405,78 | EMERGENCIA subm. de material Residencia Paral·lel: 1507,30 | Mamapares de metracrilat: 12160,50 | Manpares protectores: 5411,12"
     },
     {
         "empresa": "VADEOFFICE",
         "total": "21457,20",
-        "detalle": "ADQUISICIÓ DE TERMÒMETRES INFRAROJOS: 6467,89" | Elements senyalització: 14989,31"
+        "detalle": "ADQUISICIÓ DE TERMÒMETRES INFRAROJOS: 6467,89 | Elements senyalització: 14989,31"
     },
     {
         "empresa": "OHL Servicios Ingesan, S.A.",
@@ -1393,7 +1393,7 @@
     {
         "empresa": "Publicidad JR Barcelona, S.L",
         "total": "18986,72",
-        "detalle": "Pissarres Easy Dot: 586,85" | Productes de desinfecció i neteja: 18399,87"
+        "detalle": "Pissarres Easy Dot: 586,85 | Productes de desinfecció i neteja: 18399,87"
     },
     {
         "empresa": "CALAIX DE CULTURA, SL",
@@ -1418,7 +1418,7 @@
     {
         "empresa": "CESPA CIA ESPAÑOLA DE SERVICIOS PUBLICOS AUXILIARES,SA-PBSC URBAN SOLUTIONS INC- UNION TEMPORAL DE EMPRESAS (UTE PEDALEM BARCELONA)",
         "total": "18125,58",
-        "detalle": "Obres pel desmuntatge i muntatge de l'estació 121 del Bicing al c. Castillejos, 158, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 4898,81" | Obres pel desmuntatge i muntatge de l'estació 123 del Bicing al c. Girona, 142, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 3386,57" | Obres pel desmuntatge i muntatge de l'estació 15 del Bicing al c. Girona, 68, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2105,40" | Obres pel desmuntatge i muntatge de l'estació 262 del Bicing al c. Rocafort, 103, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2274,80" | Obres per el desmuntatge i muntatge de l'estació 191 del Bicing al c. Rocafort, 167, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2514,38" | Obres per el desmuntatge i muntatge de l'estació 459 del Bicing al Passeig de Santa Coloma, 105, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2945,62"
+        "detalle": "Obres pel desmuntatge i muntatge de l'estació 121 del Bicing al c. Castillejos, 158, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 4898,81 | Obres pel desmuntatge i muntatge de l'estació 123 del Bicing al c. Girona, 142, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 3386,57 | Obres pel desmuntatge i muntatge de l'estació 15 del Bicing al c. Girona, 68, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2105,40 | Obres pel desmuntatge i muntatge de l'estació 262 del Bicing al c. Rocafort, 103, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2274,80 | Obres per el desmuntatge i muntatge de l'estació 191 del Bicing al c. Rocafort, 167, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2514,38 | Obres per el desmuntatge i muntatge de l'estació 459 del Bicing al Passeig de Santa Coloma, 105, actuacions d'Espai Públic i Mobilitat en el marc del Covid-19.: 2945,62"
     },
     {
         "empresa": "Imagina Digital Solutions, S.L.",
@@ -1428,7 +1428,7 @@
     {
         "empresa": "IMPALA NETWORK SOLUTIONS, SL",
         "total": "18037,04",
-        "detalle": "Cablatge Pavelló Hospital del Mar: 7614,42" | Pre instal·lacions càmeres Ed. Bogatell: 1523,37" | Wifi Centre coordinació ed. Mestral PSPV: 8899,25"
+        "detalle": "Cablatge Pavelló Hospital del Mar: 7614,42 | Pre instal·lacions càmeres Ed. Bogatell: 1523,37 | Wifi Centre coordinació ed. Mestral PSPV: 8899,25"
     },
     {
         "empresa": "Iurisdiagonal, S.L.P",
@@ -1438,12 +1438,12 @@
     {
         "empresa": "LIMPTRES SL",
         "total": "17844,91",
-        "detalle": "Netejes extraordinàries i desinfeccions: 16830,20" | Nova desinfecció planta 2 i 3 Av Diagonal 220: 1014,71"
+        "detalle": "Netejes extraordinàries i desinfeccions: 16830,20 | Nova desinfecció planta 2 i 3 Av Diagonal 220: 1014,71"
     },
     {
         "empresa": "TRAVESSA QUICK NET SERVICE SL",
         "total": "17588,76",
-        "detalle": "EMERGENCIA cordes d'assecat per neteja EPIS: 9137,44" | Compra cordes i mosquetons Hospital Campanya VH: 4864,56" | Compra cordes i mosquetons Hospital de Sant Pau: 924,74" | Compra cordes i mosquetons Hospital del Mar: 1284,58" | Compra cordes i mosquetons INEF: 1377,44"
+        "detalle": "EMERGENCIA cordes d'assecat per neteja EPIS: 9137,44 | Compra cordes i mosquetons Hospital Campanya VH: 4864,56 | Compra cordes i mosquetons Hospital de Sant Pau: 924,74 | Compra cordes i mosquetons Hospital del Mar: 1284,58 | Compra cordes i mosquetons INEF: 1377,44"
     },
     {
         "empresa": "BUFETE MARESCA SLP",
@@ -1453,12 +1453,12 @@
     {
         "empresa": "SENTRY CÍA. ESPECIALIZADA CONTROL Y",
         "total": "17217,09",
-        "detalle": "Control d'accès mercat  LLibertat 2ª quinzena maig: 2475,66" | Control d'accès mercat  LLibertat 30/14, 2,8,9/05: 712,69" | Control d'accès mercat  LLibertat juny: 3751,00" | Control d'accès mercat de LLibertat Març: 712,69" | Servei Auxiliar mercat de  LLibertat 17,18,24,25/4: 825,22" | Servei auxiliar mercat de Llibertat juliol a setem: 8739,83"
+        "detalle": "Control d'accès mercat  LLibertat 2ª quinzena maig: 2475,66 | Control d'accès mercat  LLibertat 30/14, 2,8,9/05: 712,69 | Control d'accès mercat  LLibertat juny: 3751,00 | Control d'accès mercat de LLibertat Març: 712,69 | Servei Auxiliar mercat de  LLibertat 17,18,24,25/4: 825,22 | Servei auxiliar mercat de Llibertat juliol a setem: 8739,83"
     },
     {
         "empresa": "MECALUX SA",
         "total": "16988,40",
-        "detalle": "EMERGENCIA armariets pels Pavellons 7A i 7B FIRA: 14632,53" | EMERGENCIA estanteries pel Pavelló 4 Fira: 2355,87"
+        "detalle": "EMERGENCIA armariets pels Pavellons 7A i 7B FIRA: 14632,53 | EMERGENCIA estanteries pel Pavelló 4 Fira: 2355,87"
     },
     {
         "empresa": "EQUIPOS DE LIMPIEZA SL",
@@ -1498,7 +1498,7 @@
     {
         "empresa": "FUNDACIO PRIVADA PARE MANEL",
         "total": "16201,50",
-        "detalle": "Serveis de confecció de mascaretes COVID-19 per a personal municipal: 10164,00" | Confecció mascaretes Dones cosidores: 6037,50"
+        "detalle": "Serveis de confecció de mascaretes COVID-19 per a personal municipal: 10164,00 | Confecció mascaretes Dones cosidores: 6037,50"
     },
     {
         "empresa": "PENCIL ILUSTRADORES SL",
@@ -1518,7 +1518,7 @@
     {
         "empresa": "SPI FASHION ACCESSORIES S.L.",
         "total": "15863,10",
-        "detalle": "Compra de 5.000 mascaretes: 4174,50" | Contracte de 14.000 mascaretes pels mercats: 11688,60"
+        "detalle": "Compra de 5.000 mascaretes: 4174,50 | Contracte de 14.000 mascaretes pels mercats: 11688,60"
     },
     {
         "empresa": "ONE BIG ROBOT SL",
@@ -1528,7 +1528,7 @@
     {
         "empresa": "COMERCIAL CONTEL, S.A.",
         "total": "15413,89",
-        "detalle": "Adquisició mobiliari oficina: 6266,29" | EMERGENCIA 15 taules menjador R. Paral·lel: 2069,10" | Mampares de metacrilat transparent autoportants: 7078,50"
+        "detalle": "Adquisició mobiliari oficina: 6266,29 | EMERGENCIA 15 taules menjador R. Paral·lel: 2069,10 | Mampares de metacrilat transparent autoportants: 7078,50"
     },
     {
         "empresa": "SIXTY CONFORT SL",
@@ -1538,7 +1538,7 @@
     {
         "empresa": "ALO SYSTEMS S.L.",
         "total": "14930,92",
-        "detalle": "Compra d'1 portàtil per teletreball: 859,34" | Compra de 17 ordinadors portatils per teletreball: 14071,58"
+        "detalle": "Compra d'1 portàtil per teletreball: 859,34 | Compra de 17 ordinadors portatils per teletreball: 14071,58"
     },
     {
         "empresa": "PISTA CERO SL",
@@ -1553,22 +1553,22 @@
     {
         "empresa": "DIDACTIA PROVEEDOR INTEGRAL S.L. ",
         "total": "14232,63",
-        "detalle": "Compra de dispensadors de gel hidroalcoholic: 3493,88" | Gel hidroalcoholic: 10738,75"
+        "detalle": "Compra de dispensadors de gel hidroalcoholic: 3493,88 | Gel hidroalcoholic: 10738,75"
     },
     {
         "empresa": "ROTULOS SAGARRA SA",
         "total": "14104,97",
-        "detalle": "Impressió etiquetes bosses mascaretes: 1996,50" | Impressiò etiquetes bossses mascaretes: 4011,15" | mpressiò etiquetes bossses mascaretes: 8097,32"
+        "detalle": "Impressió etiquetes bosses mascaretes: 1996,50 | Impressiò etiquetes bossses mascaretes: 4011,15 | mpressiò etiquetes bossses mascaretes: 8097,32"
     },
     {
         "empresa": "BARNA IMPORT MEDICA SA",
         "total": "13886,12",
-        "detalle": "Adquisició d’equips de protecció individual (EPIs), material sanitari i de prevenció de riscos laborals per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 10333,40" | Guants, mascaretes i altre material sanitari neces: 2000,79" | Subministrament guants, mascaretes i altre materia: 1551,93"
+        "detalle": "Adquisició d’equips de protecció individual (EPIs), material sanitari i de prevenció de riscos laborals per disposar-ne en el moment del retorn a la prestació de serveis presencial per part de les persones treballadores de Barcelona Activa: 10333,40 | Guants, mascaretes i altre material sanitari neces: 2000,79 | Subministrament guants, mascaretes i altre materia: 1551,93"
     },
     {
         "empresa": "NORDESTE SERVIC. INTEGRALES 2003 SL",
         "total": "13858,61",
-        "detalle": "Serv control accesos i vigilancia  Menjador Gregal: 5774,42" | Serv control access i vigilancia m.Gregal 9-30/05: 8084,19"
+        "detalle": "Serv control accesos i vigilancia  Menjador Gregal: 5774,42 | Serv control access i vigilancia m.Gregal 9-30/05: 8084,19"
     },
     {
         "empresa": "INGENIERIA PREVENTIVA SLU",
@@ -1613,7 +1613,7 @@
     {
         "empresa": "SANICRIL",
         "total": "12213,53",
-        "detalle": "Subministrament mampares protecció BSM (resta unitats): 9270,86" | Subministrament mampares protecció CBSA-SANICRIL: 1127,67" | Subministrament mampares protecció PATSA-SANICRIL: 1815,00"
+        "detalle": "Subministrament mampares protecció BSM (resta unitats): 9270,86 | Subministrament mampares protecció CBSA-SANICRIL: 1127,67 | Subministrament mampares protecció PATSA-SANICRIL: 1815,00"
     },
     {
         "empresa": "COORDINADORA INSERCIO SOCIO-LABORAL",
@@ -1653,12 +1653,12 @@
     {
         "empresa": "FIES EXCELLENCE, SL",
         "total": "11654,56",
-        "detalle": "Gel antisèptic: 2386,12" | Gel desinfectant i bates: 1245,99" | Material per a desfibril.ladors: 1297,45" | Subministrament de bates per a SPEIS: 2075,00" | Subministrsment cables sensor equips sanitaris SPE: 3852,00" | Termòmetres infrarojos per al servei sanitari SPEI: 798,00"
+        "detalle": "Gel antisèptic: 2386,12 | Gel desinfectant i bates: 1245,99 | Material per a desfibril.ladors: 1297,45 | Subministrament de bates per a SPEIS: 2075,00 | Subministrsment cables sensor equips sanitaris SPE: 3852,00 | Termòmetres infrarojos per al servei sanitari SPEI: 798,00"
     },
     {
         "empresa": "LIMINVEC SL",
         "total": "11580,80",
-        "detalle": "Neteja i desinfecció de vehicles de GUB: 7757,20" | Neteja i desinfecció vehicles GUB: 3823,60"
+        "detalle": "Neteja i desinfecció de vehicles de GUB: 7757,20 | Neteja i desinfecció vehicles GUB: 3823,60"
     },
     {
         "empresa": "Segos Management SL",
@@ -1673,7 +1673,7 @@
     {
         "empresa": "DIOMCOOP SCCL",
         "total": "10890,00",
-        "detalle": "Serveis de confecció de mascaretes COVID-19 per a personal municipal: 3932,50" | Serveis de revisió de mascaretes i conseqüent empaquetat: 6957,50"
+        "detalle": "Serveis de confecció de mascaretes COVID-19 per a personal municipal: 3932,50 | Serveis de revisió de mascaretes i conseqüent empaquetat: 6957,50"
     },
     {
         "empresa": "SOLIDANÇA TREBALL EI, S.L",
@@ -1683,7 +1683,7 @@
     {
         "empresa": "DEXTRON INGENIERÍA TELECOMUNICACIÓN",
         "total": "9975,24",
-        "detalle": "Compra i instal. mampares metracrilat vehicles: 4720,21" | Mamapares de metracrilat per vehicles municipals: 5255,03"
+        "detalle": "Compra i instal. mampares metracrilat vehicles: 4720,21 | Mamapares de metracrilat per vehicles municipals: 5255,03"
     },
     {
         "empresa": "COLCHONES SOMICAT SL",
@@ -1693,12 +1693,12 @@
     {
         "empresa": "CITELUM IBERICA SA",
         "total": "9795,94",
-        "detalle": "Instal·lacions als bàculs de les platges: 7948,49" | Pre instal·lacions càmeres Port Olímpic: 1847,45"
+        "detalle": "Instal·lacions als bàculs de les platges: 7948,49 | Pre instal·lacions càmeres Port Olímpic: 1847,45"
     },
     {
         "empresa": "NOU RENTAT POBLENOU SCP",
         "total": "9546,90",
-        "detalle": "Neteja i desinfecció preventives vehicles GUB: 2032,80" | Neteja i desinfecció urgent vehicles GUB: 7514,10"
+        "detalle": "Neteja i desinfecció preventives vehicles GUB: 2032,80 | Neteja i desinfecció urgent vehicles GUB: 7514,10"
     },
     {
         "empresa": "COPREDIJE SA",
@@ -1708,7 +1708,7 @@
     {
         "empresa": "FUNDACIÓ ROURE",
         "total": "9014,50",
-        "detalle": "Servei de bugaderia pel rentat, assecat i manipulació de mascaretes COVID-19: 2722,50" | Serveis de confecció de mascaretes COVID-19 per a personal municipal: 6292,00"
+        "detalle": "Servei de bugaderia pel rentat, assecat i manipulació de mascaretes COVID-19: 2722,50 | Serveis de confecció de mascaretes COVID-19 per a personal municipal: 6292,00"
     },
     {
         "empresa": "FONT ROVIRA I ASSOCIATS",
@@ -1733,7 +1733,7 @@
     {
         "empresa": "Farmesta, S.L",
         "total": "8395,02",
-        "detalle": "Subministrament urgent de mascaretes de protecció: 4500,00" | Subministrament urgent de mascaretes de protecció i guants d'un sol ús: 3895,02"
+        "detalle": "Subministrament urgent de mascaretes de protecció: 4500,00 | Subministrament urgent de mascaretes de protecció i guants d'un sol ús: 3895,02"
     },
     {
         "empresa": "MAILTECK SA",
@@ -1753,7 +1753,7 @@
     {
         "empresa": "DIEMER DIST.EQ.MED.EMERG.Y RESC. SL",
         "total": "8177,18",
-        "detalle": "EMERGENCIA llits campanya allotjament temporal: 3300,88" | EMERGENCIA llits pel recurs d'acolliment per joves: 4876,30"
+        "detalle": "EMERGENCIA llits campanya allotjament temporal: 3300,88 | EMERGENCIA llits pel recurs d'acolliment per joves: 4876,30"
     },
     {
         "empresa": "ASSOC. CATALANA PREVENCIO SUICIDI",
@@ -1768,7 +1768,7 @@
     {
         "empresa": "WATERFIRE SL",
         "total": "8004,15",
-        "detalle": "Buzos antiesquitxos: 1437,48" | Guants de neoprè d'un sol ús: 1858,56" | Guants de nitril: 618,55" | Guants químics d'un sol ús de neopré: 4089,56"
+        "detalle": "Buzos antiesquitxos: 1437,48 | Guants de neoprè d'un sol ús: 1858,56 | Guants de nitril: 618,55 | Guants químics d'un sol ús de neopré: 4089,56"
     },
     {
         "empresa": "TRATAMIENTOS DE AGUA VDF, SL",
@@ -1798,7 +1798,7 @@
     {
         "empresa": "LA FACTORIA DELS ANUNCIS",
         "total": "7278,15",
-        "detalle": "Senyalització Mercats COVID-19: 3085,50" | Senyalització Mercats no alimentaris COVID-19: 4192,65"
+        "detalle": "Senyalització Mercats COVID-19: 3085,50 | Senyalització Mercats no alimentaris COVID-19: 4192,65"
     },
     {
         "empresa": "IBERTRAC, S.L.",
@@ -1863,7 +1863,7 @@
     {
         "empresa": "ACTIVA HOSPITALET SL",
         "total": "6103,96",
-        "detalle": "Compra assecadors pavellons Sanitaris: 599,97" | EMERGENCIA electrodomèstics Residència Paral·lel: 5503,99"
+        "detalle": "Compra assecadors pavellons Sanitaris: 599,97 | EMERGENCIA electrodomèstics Residència Paral·lel: 5503,99"
     },
     {
         "empresa": "SRCL CONSENUR, S.L.",
@@ -1878,7 +1878,7 @@
     {
         "empresa": "TIRO Y RETIRO, SL",
         "total": "5963,91",
-        "detalle": "EMERGÈNCIA impressió cartells bon veïnatge 21x42cm: 3445,60" | EMERGÈNCIA impressió cartells bon veïnatge mida A4: 2518,31"
+        "detalle": "EMERGÈNCIA impressió cartells bon veïnatge 21x42cm: 3445,60 | EMERGÈNCIA impressió cartells bon veïnatge mida A4: 2518,31"
     },
     {
         "empresa": "INV VIGILANCIA SL",
@@ -1913,7 +1913,7 @@
     {
         "empresa": "COMERCIAL GUMMI SAU",
         "total": "5679,17",
-        "detalle": "Guants de nitril protecció GUB: 689,70" | Mascaretes per a la GUB: 2917,40" | Mascaretes per a la protecció profilàctica per GUB: 1217,99" | Productes de desinfecció i neteja: 854,08"
+        "detalle": "Guants de nitril protecció GUB: 689,70 | Mascaretes per a la GUB: 2917,40 | Mascaretes per a la protecció profilàctica per GUB: 1217,99 | Productes de desinfecció i neteja: 854,08"
     },
     {
         "empresa": "HOMINUM ENGINEERING, SL",
@@ -1933,12 +1933,12 @@
     {
         "empresa": "NCORA INFORMATION TECHNOLOGY, SL",
         "total": "5262,92",
-        "detalle": "Suministrament llicències Sophos Central Intercapt X Advanced (38) LOT3: 2438,78" | Suministrament llicències Sophos Central Intercapt X Advanced (40) LOT3: 2824,14"
+        "detalle": "Suministrament llicències Sophos Central Intercapt X Advanced (38) LOT3: 2438,78 | Suministrament llicències Sophos Central Intercapt X Advanced (40) LOT3: 2824,14"
     },
     {
         "empresa": "SUBMINISTRES INDUSTRIALS S.M.,S.L.",
         "total": "5212,68",
-        "detalle": "Lloguer contenidors x dipositar residus material: 3557,40" | Lloguer mòdul sanitari INEF: 1655,28"
+        "detalle": "Lloguer contenidors x dipositar residus material: 3557,40 | Lloguer mòdul sanitari INEF: 1655,28"
     },
     {
         "empresa": "SPORT MOTOR ROSES SL",
@@ -1953,7 +1953,7 @@
     {
         "empresa": "NOU DISPLAY SL",
         "total": "5082,00",
-        "detalle": "Servei de creació de packaging per poder distribuir 16.000 paquets de mascaretes COVID19 per a la plantilla municipal: 3872,00" | Servei de producció de packaging per a la confecció de paquets de distribució de mascaretes COVID-19 entre la plantilla municipal: 1210,00"
+        "detalle": "Servei de creació de packaging per poder distribuir 16.000 paquets de mascaretes COVID19 per a la plantilla municipal: 3872,00 | Servei de producció de packaging per a la confecció de paquets de distribució de mascaretes COVID-19 entre la plantilla municipal: 1210,00"
     },
     {
         "empresa": "FEDRIGONI ESPAÑA, S.L.",
@@ -1963,7 +1963,7 @@
     {
         "empresa": "PRODUCTOS ZVG ESPAÑA SA",
         "total": "5048,00",
-        "detalle": "Granotes antiesquitxos: 4431,63" | Productes de desinfecció i neteja: 616,37"
+        "detalle": "Granotes antiesquitxos: 4431,63 | Productes de desinfecció i neteja: 616,37"
     },
     {
         "empresa": "LLOGUERING SL",
@@ -1988,7 +1988,7 @@
     {
         "empresa": "KUME SAFETY SL",
         "total": "4653,28",
-        "detalle": "14 pulveritzadors de motxilla: 1278,47" | 3 màquines netejabotes: 1373,53" | 5 màquines netejabotes per a l'SPEIS: 2001,28"
+        "detalle": "14 pulveritzadors de motxilla: 1278,47 | 3 màquines netejabotes: 1373,53 | 5 màquines netejabotes per a l'SPEIS: 2001,28"
     },
     {
         "empresa": "MULTISERVEIS NDAVANT, SL",
@@ -2003,7 +2003,7 @@
     {
         "empresa": "INFINITE DENIM SL",
         "total": "3872,00",
-        "detalle": "Serveis d’ampliació i/o repàs de confecció de mascaretes COVID-19 per a personal municipal: 1936,00" | Serveis de confecció de mascaretes COVID-19 per a personal municipal: 1936,00"
+        "detalle": "Serveis d’ampliació i/o repàs de confecció de mascaretes COVID-19 per a personal municipal: 1936,00 | Serveis de confecció de mascaretes COVID-19 per a personal municipal: 1936,00"
     },
     {
         "empresa": "MAGMACULTURA SL",
@@ -2048,7 +2048,7 @@
     {
         "empresa": "DROMOVE, SL",
         "total": "3099,94",
-        "detalle": "Compra pantalles facials: 790,00" | Gels antiseptics i pantalles facials: 2309,94"
+        "detalle": "Compra pantalles facials: 790,00 | Gels antiseptics i pantalles facials: 2309,94"
     },
     {
         "empresa": "ROVEBLOC, SA",
@@ -2063,12 +2063,12 @@
     {
         "empresa": "FUNDACIO GINESTA",
         "total": "2752,75",
-        "detalle": "Servei de manipulació de 5.000 packs de mascaretes, cada pack consisteix en una bossa de paper, 5 mascaretes i una etiqueta autoadhesiva: 1058,75" | Serveis de manipulació de mascaretes COVID-19: 1694,00"
+        "detalle": "Servei de manipulació de 5.000 packs de mascaretes, cada pack consisteix en una bossa de paper, 5 mascaretes i una etiqueta autoadhesiva: 1058,75 | Serveis de manipulació de mascaretes COVID-19: 1694,00"
     },
     {
         "empresa": "GALLEX PROTECCION CONTRA INCENDIOS,",
         "total": "2697,70",
-        "detalle": "Motxilles i recipients  per a desinsectació: 1923,30" | Motxilles per a desinfecció: 774,40"
+        "detalle": "Motxilles i recipients  per a desinsectació: 1923,30 | Motxilles per a desinfecció: 774,40"
     },
     {
         "empresa": "DINSER SERVICIOS INFORMATICOS SL",
@@ -2088,7 +2088,7 @@
     {
         "empresa": "BASTOS MEDICAL SL",
         "total": "2597,87",
-        "detalle": "Mascaretes: 484,00" | Mascaretes i guants de nitril: 2113,87"
+        "detalle": "Mascaretes: 484,00 | Mascaretes i guants de nitril: 2113,87"
     },
     {
         "empresa": "BQ-MUNDO READEL SL ",
@@ -2128,7 +2128,7 @@
     {
         "empresa": "MAPE ASESORES S.A.",
         "total": "2020,34",
-        "detalle": "Alcohol 96º: 288,00" | Material farmacèutic o mèdic: 1732,34"
+        "detalle": "Alcohol 96º: 288,00 | Material farmacèutic o mèdic: 1732,34"
     },
     {
         "empresa": "FERRETERIA MEDINA DEOGRACIA SCP ",
@@ -2138,7 +2138,7 @@
     {
         "empresa": "FUNDACIO JOIA",
         "total": "1790,80",
-        "detalle": "Serveis de manipulació de mascaretes COVID-19: 1790,80" | Servei de muntatge de 8.000 caixes per a la realització de 8.000 packs de mascaretes: 0,00"
+        "detalle": "Serveis de manipulació de mascaretes COVID-19: 1790,80 | Servei de muntatge de 8.000 caixes per a la realització de 8.000 packs de mascaretes: 0,00"
     },
     {
         "empresa": "DUERTO, S.L.",
@@ -2153,7 +2153,7 @@
     {
         "empresa": "MIRAM CLOUD, SL",
         "total": "1698,84",
-        "detalle": "Suministrament llicències de Logmeinpremier (38) LOT4: 827,64" | Suministrament llicències de Logmeinpremier (40) LOT4: 871,20"
+        "detalle": "Suministrament llicències de Logmeinpremier (38) LOT4: 827,64 | Suministrament llicències de Logmeinpremier (40) LOT4: 871,20"
     },
     {
         "empresa": "SAPLEX, SA",
@@ -2188,17 +2188,17 @@
     {
         "empresa": "ALBERTO SOLER SA",
         "total": "1485,29",
-        "detalle": "Pulveritzadors (en motxilles i manuals): 742,63" | Pulveritzadors (en motxilles i manuals) per a l'ap: 742,66"
+        "detalle": "Pulveritzadors (en motxilles i manuals): 742,63 | Pulveritzadors (en motxilles i manuals) per a l'ap: 742,66"
     },
     {
         "empresa": "INFOREIN, S.A. ",
         "total": "1465,31",
-        "detalle": "Compra de 2 ordinadors portatils SSCC: 1185,56" | Llicencia Office Pro Plus per 2 portatils SSCC: 279,75"
+        "detalle": "Compra de 2 ordinadors portatils SSCC: 1185,56 | Llicencia Office Pro Plus per 2 portatils SSCC: 279,75"
     },
     {
         "empresa": "ECO SELF CLEAN SL",
         "total": "1403,60",
-        "detalle": "Desinfecció interior de vehicles de GUB: 641,30" | Desinfecció interior vehicles GUB: 762,30"
+        "detalle": "Desinfecció interior de vehicles de GUB: 641,30 | Desinfecció interior vehicles GUB: 762,30"
     },
     {
         "empresa": "Profinsa y Suministros, S.L.",
@@ -2223,12 +2223,12 @@
     {
         "empresa": "BRAIDINK, SL",
         "total": "1118,04",
-        "detalle": "Catènaries restricció accès amb cinta extensible de 3m: 689,70" | Subministrament  Lectors per signatura electrònica: 428,34"
+        "detalle": "Catènaries restricció accès amb cinta extensible de 3m: 689,70 | Subministrament  Lectors per signatura electrònica: 428,34"
     },
     {
         "empresa": "MARSERAL, SL ",
         "total": "1090,21",
-        "detalle": "Cinta color vermell i blanc: 544,50" | Expositors Deflecto A4: 545,71"
+        "detalle": "Cinta color vermell i blanc: 544,50 | Expositors Deflecto A4: 545,71"
     },
     {
         "empresa": "NUTRITION & SANTE IBERIA, SL",
@@ -2288,7 +2288,7 @@
     {
         "empresa": "UTE AURIA FIL - TALLER AURIA SANTS",
         "total": "589,31",
-        "detalle": "Consergeria Auditori Cotxeres donancions sang: 116,89" | Consergeria Casinet per donancions sang: 243,51" | Serv.consergeria Auditori Cotxeres donancions sang: 228,91"
+        "detalle": "Consergeria Auditori Cotxeres donancions sang: 116,89 | Consergeria Casinet per donancions sang: 243,51 | Serv.consergeria Auditori Cotxeres donancions sang: 228,91"
     },
     {
         "empresa": "SEGURINSA SL.",
